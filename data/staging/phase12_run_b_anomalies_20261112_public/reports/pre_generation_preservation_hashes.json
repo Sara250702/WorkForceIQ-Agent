@@ -1,0 +1,289 @@
+{
+  "baseline_backup": {
+    "file_count": 45,
+    "files_verified": 45,
+    "manifest_path": "REDACTED_LOCAL_PATH_e4d3750a287f",
+    "manifest_sha256": "ef6675ce1064282957b4595e3e5d5c910983e5699238d0374ea5c8df0eb08a78",
+    "path": "REDACTED_LOCAL_PATH_d54e5cd95d21",
+    "verification_status": "PASS",
+    "verified_files_sha256": [
+      {
+        "path": "REDACTED_LOCAL_PATH_99e1e2410047",
+        "sha256": "de5669ba520aa322c31b1d8ca5b2257b5afd716255578315009cd8be33361a24"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_b3d81eef6b2d",
+        "sha256": "3ce8c953aabc06aed1cb58a2a310c448bf19041a05c527d42591ecfc3904844f"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_61de67c0e407",
+        "sha256": "f13586a8351e990ceb58efdd6e749eeed92f1bd6b91b18718d2c4ee83e4877fc"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_cea2672c8637",
+        "sha256": "e8c613a4202fcfdd07649a628be34f16f217cfaca9e40416a2005565559e0969"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_b0cf1da0120d",
+        "sha256": "faf2d727ca7e78bf1f7f3026202cd62c2b23741c00aaa2cf283fed81f0e36453"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_8a50621ae6c0",
+        "sha256": "3b1c52d15a43185e0adb1e84ee913d638f7123c1cb175bfc7746b082ccecee57"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_f3d18397d6b2",
+        "sha256": "13c6622f96d8ea42f0a1c15b1c8d9a8f0a5e02c149cba1f59e2d5fc46cadb1ae"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_a576ab1f7c06",
+        "sha256": "ff6a78ee5fe0bd28dd44837cc5bafbc2e3b82f0b7a6977d9dec5d3fde2b6ec43"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_ad1288d87716",
+        "sha256": "1062e095d6c1c4bca550663770a92b85b231a807d7efc2eaf5437dde9279a9e1"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_719f99efa159",
+        "sha256": "dcb9d07972b7ae38640caab1a4340b8feb85edaeeef9763dcd8dfead44d27463"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_9a2a5640bfa0",
+        "sha256": "fe9b72398a7ea0bd3257d79d2be88f2579671bbcd292a70dc2473d5b563ec91e"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_07c40f0df0be",
+        "sha256": "acdf679f5377a35e6c3b156fc0a65b715b7a22ac41bcb7e9261057371a6f1f39"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_287abc5a0e68",
+        "sha256": "4dc1063fa2ba1011680ed71420f770c70d73966d7494ef16d98504a327ee0ef1"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_ef4b18456c07",
+        "sha256": "880b9fbed9fb622b00de295f3babcb54cb0a29b4e3eb28ae248f817a0e621c6b"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_4f0af88e3940",
+        "sha256": "6447408653a39cd27fa44b2fb0bb0e2db2cfc4ec930a36343d3c012ddf099eb3"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_abbd6bbfdc2a",
+        "sha256": "1772b3494cf4085d78c223ac550cb4645881cb11b3837e3c51dbafd2baa58b09"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_edc6ec72c801",
+        "sha256": "0660582ddb30e7a2cefaab5af3477aff47b394070a2d4ef04a7d22d3d7a5f7bf"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_4a10f373a676",
+        "sha256": "bdc110cdec6ec02e690334b55737c81cdc534372047c0fe90c47a27d0318c2cf"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_f44d68366687",
+        "sha256": "149788d43a952f156152dfd51a5a8d247d2a35846d0088696105a24a8c1400fb"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_40606f3faaa4",
+        "sha256": "747c5ae3deca1006f39791b9a71bc21ca30e48d97f02b679427ad465650758aa"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_52a70f583b17",
+        "sha256": "c44aff41890d9cb99f43cc6e9e42d33820aeb62a23bc180ca1807acefc36f674"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_3157dd03c611",
+        "sha256": "3800dd3346ea6b6358be15376b2bcf574f58b16af568ade81f49cc1852805020"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_473f5f781d0d",
+        "sha256": "ff7d3930a83e07fbc28f2d77fb4aa15de26c57d82906b9e77cc890f1a896d0d5"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_5a323ec2d439",
+        "sha256": "8cb9ff86fa7f7a583c8bab388197a7b6c052cb7c492e4dbebbeda82f5e4eeea1"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_f470f96e72b3",
+        "sha256": "bf3a76514cae805820ec4cfc7b9a2c62ab1a56f83020a4a9540a64e9c18ee73a"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_ebdb8a2c67c0",
+        "sha256": "b292323ba710f5dac357ee180d2ce55e1328712c8c66c532ea96265ed97d3fb5"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_6fe803c5053f",
+        "sha256": "982d970317f166cded353b83773ce40a0c3e6a2e051ced47304acc5eb907aeee"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_89df9bd17c37",
+        "sha256": "b545fc3e2ee4b011e4d5df72303a6901599b982b65d0ca49d9bfc4e6e385c46c"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_a71d17d40458",
+        "sha256": "7d0f63a7d97ea627a8915339cf21e0219ff362438b1ca402f0ff476264d04715"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_6c1b32840117",
+        "sha256": "da2c0dda639794c738e08ad3c008b6203926643d91908e015c575709ec3a4353"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_12ce56d2b089",
+        "sha256": "864c37ee55f499c3456d42477ed020aaec8bf11f5c746e3df3f152961613c9bb"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_2f3efde09d1a",
+        "sha256": "1e4eea332bacc1c4a1172b6f384ec813c046372c1356438773dad721b097afc5"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_2a0b344da469",
+        "sha256": "6b6482ba9a87d87b9f028325cca6dc5eaada05a51be8e98e3d48ff04af655dcb"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_bce17bcbf1c1",
+        "sha256": "5fdbba78de40d1b61a9a725428c3019fa52dd76b8db824c11936c1c94d33c9a2"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_c21ee9b0bb89",
+        "sha256": "4747ebcdde9fc7ffaa8139718fabee32c8410a0e32893ce4d22356e9c0c2bc2d"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_f95061f23903",
+        "sha256": "67ad2576dfae5ed0386cd8a0e5e45ce8ab87b0552c44bd36fca5a81e37549ecb"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_e9a0d3c17dd4",
+        "sha256": "9c2144467064eb98af05c38b3a2229c0d5463294d2dec371aff7ab14750d4bf5"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_558503d91515",
+        "sha256": "b0090743420eb312cb5bd9cdf303931e53c834b2c70a650a09757cf575bcbd81"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_5241918fac62",
+        "sha256": "fa7e4485c5ad3398d375aa63c191c0a7974c098ca77eee5bd99da30a68f3b474"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_b376ca0efcac",
+        "sha256": "b94d7df195f92b6ed4b1b2d7679478d2facf61faad232a0c53bd73f668275357"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_633bcaee3112",
+        "sha256": "a28b82458a88889350df00c38354f29573087a635de054a2d049490188ede587"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_6a3ef1bc92d7",
+        "sha256": "8a275f5a7b7357a5a01bba9162f545743a95ff2a97f2ba4a2f2a7c91ef6d4be1"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_4e6774f19904",
+        "sha256": "a756e6ee0862d8456e271dc860b559c0fb2e67a45635b3bf554c90813b616ac0"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_b8e1f516f668",
+        "sha256": "5e2da7318a2925c0f7be6f0aa205f60f3366ac07b771f9abcc022246c7aa61ba"
+      },
+      {
+        "path": "REDACTED_LOCAL_PATH_f687d3911947",
+        "sha256": "9f4929e7780f24bb818f4e114743bcd3ec3e451608d52f8577a4e8af516ddad0"
+      }
+    ]
+  },
+  "created_at_utc": "2026-11-11T19:34:43.341471Z",
+  "original_database": {
+    "path": "REDACTED_LOCAL_PATH_b91716e8a5ba",
+    "sha256": "3800dd3346ea6b6358be15376b2bcf574f58b16af568ade81f49cc1852805020",
+    "verification_status": "PASS"
+  },
+  "report_type": "run_b_pre_generation_preservation_hashes",
+  "run_a": {
+    "database_path": "REDACTED_LOCAL_PATH_09f6193c3e61",
+    "database_sha256": "32987e0f5381fc47f202971e672085c14ee0d80d4bafa4c0f388d34b87882a69",
+    "raw_processed_absolute_paths_by_relative_path": {
+      "data/processed/capacity_analysis.csv": "REDACTED_LOCAL_PATH_2f88355db709",
+      "data/processed/demand_forecast.csv": "REDACTED_LOCAL_PATH_b765dca6ae6f",
+      "data/processed/skill_gap_analysis.csv": "REDACTED_LOCAL_PATH_17a487bba90c",
+      "data/processed/skill_intelligence.csv": "REDACTED_LOCAL_PATH_e2bcb1bfb85c",
+      "data/processed/talent_discovery.csv": "REDACTED_LOCAL_PATH_5e2cb224f630",
+      "data/processed/workforce_exceptions.csv": "REDACTED_LOCAL_PATH_f485ecedaabc",
+      "data/processed/workforce_recommendations.csv": "REDACTED_LOCAL_PATH_df532c4c3027",
+      "data/raw/allocations.csv": "REDACTED_LOCAL_PATH_89c7817fbf4f",
+      "data/raw/availability.csv": "REDACTED_LOCAL_PATH_dbae61a8366f",
+      "data/raw/demand_plans.csv": "REDACTED_LOCAL_PATH_6dc806c9ef4b",
+      "data/raw/employee_skills.csv": "REDACTED_LOCAL_PATH_583d5bc8047a",
+      "data/raw/employees.csv": "REDACTED_LOCAL_PATH_8da4de715864",
+      "data/raw/gap_analysis.csv": "REDACTED_LOCAL_PATH_defc9880583b",
+      "data/raw/projects.csv": "REDACTED_LOCAL_PATH_70e8910affe7",
+      "data/raw/roles.csv": "REDACTED_LOCAL_PATH_266184011c62",
+      "data/raw/skills.csv": "REDACTED_LOCAL_PATH_9e15b0c30a89",
+      "data/raw/training.csv": "REDACTED_LOCAL_PATH_cb1f906c7b1b"
+    },
+    "raw_processed_artifact_count": 17,
+    "raw_processed_csv_count": 17,
+    "raw_processed_csv_sha256_by_path": {
+      "processed/capacity_analysis.csv": "d2de1476e9574db1110c7ff9a49a84768e0db593dddc3f993ab0bd73ce46121e",
+      "processed/demand_forecast.csv": "c2bdbc50e1d40fbf7a5d93c045b2445dca1b0feb7ea67569f3c321cac88fdc95",
+      "processed/skill_gap_analysis.csv": "bbd15c141c1563859887132c9d075efcca53325e70921257eef7e3c100c5197e",
+      "processed/skill_intelligence.csv": "96a67ebc83dd326daeed0483eee1dc282b3b582424febd70732e1b8a9482a61f",
+      "processed/talent_discovery.csv": "2f09f78450b1510cb56eb5c670e19e6b243eaf7e9a5f6ea22382519a1a788268",
+      "processed/workforce_exceptions.csv": "ce2a2ca395df53d63730a9614936338494699dcddae6ab1dd14e1707cdb5a724",
+      "processed/workforce_recommendations.csv": "443c4f2f81528f2410db970c93a1fdf1bda2e584bc81b19111dd4eb0cf14de51",
+      "raw/allocations.csv": "5a7ce5dc14ec94025cc38c751565c1c499761ce5b8131a0fef1c1ab3923b8c0f",
+      "raw/availability.csv": "8c4ab068b5d2d611bbb2e56152ddbeb2a963776df70568332189010dea6c61b0",
+      "raw/demand_plans.csv": "e4249cdc7b40887d8ca61706531b5309c5aa9b0c811b19ba32aa8bb94587f60c",
+      "raw/employee_skills.csv": "ed5f771508b2940bfed8c867dd4c3251056ea0968193bbf6b96a1e7683e25c56",
+      "raw/employees.csv": "4518cbd7c964aac07be04d0dd2c5db0f888430da45d61e8972863f472af3b8e8",
+      "raw/gap_analysis.csv": "6c2fc2ff0b9c371314c9d84554fb304b79903f894ff1cc505f9d146c027825d9",
+      "raw/projects.csv": "6f35dc778a5ba82ab0eabf3e120e32c8a709897861ce0339252e85c93351a954",
+      "raw/roles.csv": "bdc110cdec6ec02e690334b55737c81cdc534372047c0fe90c47a27d0318c2cf",
+      "raw/skills.csv": "0f3600af4d5f4323bda4770718fcc809dcbbe1a200f04972015ac638dac44121",
+      "raw/training.csv": "8700e67a1a0438e2b472563f02b66e94a2294d65366328995dd993675fb0ba5e"
+    },
+    "raw_processed_sha256_by_path": {
+      "data/processed/capacity_analysis.csv": "d2de1476e9574db1110c7ff9a49a84768e0db593dddc3f993ab0bd73ce46121e",
+      "data/processed/demand_forecast.csv": "c2bdbc50e1d40fbf7a5d93c045b2445dca1b0feb7ea67569f3c321cac88fdc95",
+      "data/processed/skill_gap_analysis.csv": "bbd15c141c1563859887132c9d075efcca53325e70921257eef7e3c100c5197e",
+      "data/processed/skill_intelligence.csv": "96a67ebc83dd326daeed0483eee1dc282b3b582424febd70732e1b8a9482a61f",
+      "data/processed/talent_discovery.csv": "2f09f78450b1510cb56eb5c670e19e6b243eaf7e9a5f6ea22382519a1a788268",
+      "data/processed/workforce_exceptions.csv": "ce2a2ca395df53d63730a9614936338494699dcddae6ab1dd14e1707cdb5a724",
+      "data/processed/workforce_recommendations.csv": "443c4f2f81528f2410db970c93a1fdf1bda2e584bc81b19111dd4eb0cf14de51",
+      "data/raw/allocations.csv": "5a7ce5dc14ec94025cc38c751565c1c499761ce5b8131a0fef1c1ab3923b8c0f",
+      "data/raw/availability.csv": "8c4ab068b5d2d611bbb2e56152ddbeb2a963776df70568332189010dea6c61b0",
+      "data/raw/demand_plans.csv": "e4249cdc7b40887d8ca61706531b5309c5aa9b0c811b19ba32aa8bb94587f60c",
+      "data/raw/employee_skills.csv": "ed5f771508b2940bfed8c867dd4c3251056ea0968193bbf6b96a1e7683e25c56",
+      "data/raw/employees.csv": "4518cbd7c964aac07be04d0dd2c5db0f888430da45d61e8972863f472af3b8e8",
+      "data/raw/gap_analysis.csv": "6c2fc2ff0b9c371314c9d84554fb304b79903f894ff1cc505f9d146c027825d9",
+      "data/raw/projects.csv": "6f35dc778a5ba82ab0eabf3e120e32c8a709897861ce0339252e85c93351a954",
+      "data/raw/roles.csv": "bdc110cdec6ec02e690334b55737c81cdc534372047c0fe90c47a27d0318c2cf",
+      "data/raw/skills.csv": "0f3600af4d5f4323bda4770718fcc809dcbbe1a200f04972015ac638dac44121",
+      "data/raw/training.csv": "8700e67a1a0438e2b472563f02b66e94a2294d65366328995dd993675fb0ba5e"
+    },
+    "root": "REDACTED_LOCAL_PATH_ffdf7afebefa",
+    "tree_file_count": 19,
+    "tree_sha256_by_path": {
+      "data/processed/capacity_analysis.csv": "d2de1476e9574db1110c7ff9a49a84768e0db593dddc3f993ab0bd73ce46121e",
+      "data/processed/demand_forecast.csv": "c2bdbc50e1d40fbf7a5d93c045b2445dca1b0feb7ea67569f3c321cac88fdc95",
+      "data/processed/skill_gap_analysis.csv": "bbd15c141c1563859887132c9d075efcca53325e70921257eef7e3c100c5197e",
+      "data/processed/skill_intelligence.csv": "96a67ebc83dd326daeed0483eee1dc282b3b582424febd70732e1b8a9482a61f",
+      "data/processed/talent_discovery.csv": "2f09f78450b1510cb56eb5c670e19e6b243eaf7e9a5f6ea22382519a1a788268",
+      "data/processed/workforce_exceptions.csv": "ce2a2ca395df53d63730a9614936338494699dcddae6ab1dd14e1707cdb5a724",
+      "data/processed/workforce_recommendations.csv": "443c4f2f81528f2410db970c93a1fdf1bda2e584bc81b19111dd4eb0cf14de51",
+      "data/raw/allocations.csv": "5a7ce5dc14ec94025cc38c751565c1c499761ce5b8131a0fef1c1ab3923b8c0f",
+      "data/raw/availability.csv": "8c4ab068b5d2d611bbb2e56152ddbeb2a963776df70568332189010dea6c61b0",
+      "data/raw/demand_plans.csv": "e4249cdc7b40887d8ca61706531b5309c5aa9b0c811b19ba32aa8bb94587f60c",
+      "data/raw/employee_skills.csv": "ed5f771508b2940bfed8c867dd4c3251056ea0968193bbf6b96a1e7683e25c56",
+      "data/raw/employees.csv": "4518cbd7c964aac07be04d0dd2c5db0f888430da45d61e8972863f472af3b8e8",
+      "data/raw/gap_analysis.csv": "6c2fc2ff0b9c371314c9d84554fb304b79903f894ff1cc505f9d146c027825d9",
+      "data/raw/projects.csv": "6f35dc778a5ba82ab0eabf3e120e32c8a709897861ce0339252e85c93351a954",
+      "data/raw/roles.csv": "bdc110cdec6ec02e690334b55737c81cdc534372047c0fe90c47a27d0318c2cf",
+      "data/raw/skills.csv": "0f3600af4d5f4323bda4770718fcc809dcbbe1a200f04972015ac638dac44121",
+      "data/raw/training.csv": "8700e67a1a0438e2b472563f02b66e94a2294d65366328995dd993675fb0ba5e",
+      "database/workforceiq.db": "32987e0f5381fc47f202971e672085c14ee0d80d4bafa4c0f388d34b87882a69",
+      "reports/validation.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "verification_status": "PASS"
+  },
+  "run_a_inventory_limitation": "All 17 expected raw/processed CSV paths are explicitly required. The project has no documented expected non-CSV data-artifact inventory; existing non-CSV files are hashed recursively, but a non-CSV file already missing before capture cannot be identified.",
+  "stage_root": "REDACTED_LOCAL_PATH_ff9d37daf221",
+  "verification_status": "PASS"
+}

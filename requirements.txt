@@ -1,0 +1,9 @@
+
+pandas
+streamlit
+Faker
+pytest
+python-dotenv
+groq
+pypdf
+python-docx

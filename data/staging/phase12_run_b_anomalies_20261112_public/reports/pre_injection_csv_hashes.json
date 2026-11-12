@@ -1,0 +1,19 @@
+{
+  "processed/capacity_analysis.csv": "d2de1476e9574db1110c7ff9a49a84768e0db593dddc3f993ab0bd73ce46121e",
+  "processed/demand_forecast.csv": "c2bdbc50e1d40fbf7a5d93c045b2445dca1b0feb7ea67569f3c321cac88fdc95",
+  "processed/skill_gap_analysis.csv": "bbd15c141c1563859887132c9d075efcca53325e70921257eef7e3c100c5197e",
+  "processed/skill_intelligence.csv": "96a67ebc83dd326daeed0483eee1dc282b3b582424febd70732e1b8a9482a61f",
+  "processed/talent_discovery.csv": "2f09f78450b1510cb56eb5c670e19e6b243eaf7e9a5f6ea22382519a1a788268",
+  "processed/workforce_exceptions.csv": "ce2a2ca395df53d63730a9614936338494699dcddae6ab1dd14e1707cdb5a724",
+  "processed/workforce_recommendations.csv": "443c4f2f81528f2410db970c93a1fdf1bda2e584bc81b19111dd4eb0cf14de51",
+  "raw/allocations.csv": "5a7ce5dc14ec94025cc38c751565c1c499761ce5b8131a0fef1c1ab3923b8c0f",
+  "raw/availability.csv": "8c4ab068b5d2d611bbb2e56152ddbeb2a963776df70568332189010dea6c61b0",
+  "raw/demand_plans.csv": "e4249cdc7b40887d8ca61706531b5309c5aa9b0c811b19ba32aa8bb94587f60c",
+  "raw/employee_skills.csv": "ed5f771508b2940bfed8c867dd4c3251056ea0968193bbf6b96a1e7683e25c56",
+  "raw/employees.csv": "4518cbd7c964aac07be04d0dd2c5db0f888430da45d61e8972863f472af3b8e8",
+  "raw/gap_analysis.csv": "6c2fc2ff0b9c371314c9d84554fb304b79903f894ff1cc505f9d146c027825d9",
+  "raw/projects.csv": "6f35dc778a5ba82ab0eabf3e120e32c8a709897861ce0339252e85c93351a954",
+  "raw/roles.csv": "bdc110cdec6ec02e690334b55737c81cdc534372047c0fe90c47a27d0318c2cf",
+  "raw/skills.csv": "0f3600af4d5f4323bda4770718fcc809dcbbe1a200f04972015ac638dac44121",
+  "raw/training.csv": "8700e67a1a0438e2b472563f02b66e94a2294d65366328995dd993675fb0ba5e"
+}

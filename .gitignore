@@ -1,0 +1,34 @@
+.env
+.env.*
+!.env.example
+
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+.DS_Store
+
+# Local backups and workforce dataset copies; allow only the sanitized public Run B package.
+backups/
+data/*
+!data/staging/
+data/staging/*
+!data/staging/phase12_run_b_anomalies_20261112_public/
+
+# Private keys, certificates, and key stores.
+*.key
+*.pem
+*.p12
+*.pfx
+*.p7b
+*.p7c
+*.crt
+*.cer
+*.der
+*.jks
+*.keystore
+
+# Every sanitized public package file remains eligible for tracking.
+!data/staging/phase12_run_b_anomalies_20261112_public/**

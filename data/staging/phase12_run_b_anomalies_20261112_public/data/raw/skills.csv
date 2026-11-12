@@ -1,0 +1,301 @@
+skill_id,skill_name,skill_category
+SKL-000001,Python,Programming
+SKL-000002,Java,Programming
+SKL-000003,JavaScript,Programming
+SKL-000004,C++,Programming
+SKL-000005,C#,Programming
+SKL-000006,SQL,Programming
+SKL-000007,TypeScript,Programming
+SKL-000008,R,Programming
+SKL-000009,Go,Programming
+SKL-000010,PHP,Programming
+SKL-000011,Ruby,Programming
+SKL-000012,Kotlin,Programming
+SKL-000013,Swift,Programming
+SKL-000014,Scala,Programming
+SKL-000015,Rust,Programming
+SKL-000016,Bash,Programming
+SKL-000017,PowerShell,Programming
+SKL-000018,Machine Learning,AI and Machine Learning
+SKL-000019,Deep Learning,AI and Machine Learning
+SKL-000020,NLP,AI and Machine Learning
+SKL-000021,Computer Vision,AI and Machine Learning
+SKL-000022,Generative AI,AI and Machine Learning
+SKL-000023,LLMs,AI and Machine Learning
+SKL-000024,Prompt Engineering,AI and Machine Learning
+SKL-000025,RAG,AI and Machine Learning
+SKL-000026,LangChain,AI and Machine Learning
+SKL-000027,LangGraph,AI and Machine Learning
+SKL-000028,TensorFlow,AI and Machine Learning
+SKL-000029,PyTorch,AI and Machine Learning
+SKL-000030,Scikit-learn,AI and Machine Learning
+SKL-000031,Hugging Face,AI and Machine Learning
+SKL-000032,MLOps,AI and Machine Learning
+SKL-000033,Pandas,Data Analytics
+SKL-000034,NumPy,Data Analytics
+SKL-000035,Matplotlib,Data Analytics
+SKL-000036,Power BI,Data Analytics
+SKL-000037,Tableau,Data Analytics
+SKL-000038,Excel,Data Analytics
+SKL-000039,Statistics,Data Analytics
+SKL-000040,Data Visualization,Data Analytics
+SKL-000041,Data Cleaning,Data Analytics
+SKL-000042,Data Mining,Data Analytics
+SKL-000043,MySQL,Database
+SKL-000044,PostgreSQL,Database
+SKL-000045,SQLite,Database
+SKL-000046,MongoDB,Database
+SKL-000047,Redis,Database
+SKL-000048,Database Design,Database
+SKL-000049,Data Modeling,Database
+SKL-000050,Database Administration,Database
+SKL-000051,AWS,Cloud and DevOps
+SKL-000052,Azure,Cloud and DevOps
+SKL-000053,Google Cloud,Cloud and DevOps
+SKL-000054,Docker,Cloud and DevOps
+SKL-000055,Kubernetes,Cloud and DevOps
+SKL-000056,Git,Cloud and DevOps
+SKL-000057,GitHub Actions,Cloud and DevOps
+SKL-000058,CI/CD,Cloud and DevOps
+SKL-000059,Linux,Cloud and DevOps
+SKL-000060,Jenkins,Cloud and DevOps
+SKL-000061,HTML,Web Development
+SKL-000062,CSS,Web Development
+SKL-000063,React,Web Development
+SKL-000064,Node.js,Web Development
+SKL-000065,Flask,Web Development
+SKL-000066,Django,Web Development
+SKL-000067,Streamlit,Web Development
+SKL-000068,REST APIs,Web Development
+SKL-000069,Software Testing,Web Development
+SKL-000070,FastAPI,Web Development
+SKL-000071,Agile,Project Management
+SKL-000072,Scrum,Project Management
+SKL-000073,Project Planning,Project Management
+SKL-000074,Risk Management,Project Management
+SKL-000075,Team Leadership,Project Management
+SKL-000076,Resource Planning,Project Management
+SKL-000077,Jira,Project Management
+SKL-000078,Communication,Project Management
+SKL-000079,UI Design,Design
+SKL-000080,UX Research,Design
+SKL-000081,Figma,Design
+SKL-000082,Wireframing,Design
+SKL-000083,Prototyping,Design
+SKL-000084,Design Thinking,Design
+SKL-000085,C,Programming
+SKL-000086,MATLAB,Programming
+SKL-000087,Julia,Programming
+SKL-000088,Objective-C,Programming
+SKL-000089,Dart,Programming
+SKL-000090,Elixir,Programming
+SKL-000091,Clojure,Programming
+SKL-000092,Perl,Programming
+SKL-000093,Groovy,Programming
+SKL-000094,Lua,Programming
+SKL-000095,Haskell,Programming
+SKL-000096,Assembly Language,Programming
+SKL-000097,Functional Programming,Programming
+SKL-000098,Supervised Learning,AI and Machine Learning
+SKL-000099,Unsupervised Learning,AI and Machine Learning
+SKL-000100,Reinforcement Learning,AI and Machine Learning
+SKL-000101,Feature Engineering,AI and Machine Learning
+SKL-000102,Model Evaluation,AI and Machine Learning
+SKL-000103,Time Series Modeling,AI and Machine Learning
+SKL-000104,Recommender Systems,AI and Machine Learning
+SKL-000105,LLM Fine-tuning,AI and Machine Learning
+SKL-000106,Vector Search,AI and Machine Learning
+SKL-000107,AI Ethics,AI and Machine Learning
+SKL-000108,Model Deployment,AI and Machine Learning
+SKL-000109,Explainable AI,AI and Machine Learning
+SKL-000110,Speech Recognition,AI and Machine Learning
+SKL-000111,Multimodal AI,AI and Machine Learning
+SKL-000112,AI Agents,AI and Machine Learning
+SKL-000113,Advanced SQL Analytics,Data Analytics
+SKL-000114,Data Storytelling,Data Analytics
+SKL-000115,Looker,Data Analytics
+SKL-000116,Qlik Sense,Data Analytics
+SKL-000117,SAS Analytics,Data Analytics
+SKL-000118,SPSS,Data Analytics
+SKL-000119,A/B Testing,Data Analytics
+SKL-000120,Demand Forecasting,Data Analytics
+SKL-000121,Data Governance,Data Analytics
+SKL-000122,Data Quality Management,Data Analytics
+SKL-000123,KPI Design,Data Analytics
+SKL-000124,Experiment Design,Data Analytics
+SKL-000125,Oracle Database,Database
+SKL-000126,Microsoft SQL Server,Database
+SKL-000127,Apache Cassandra,Database
+SKL-000128,Amazon DynamoDB,Database
+SKL-000129,Elasticsearch,Database
+SKL-000130,Database Performance Tuning,Database
+SKL-000131,Query Optimization,Database
+SKL-000132,Schema Migration,Database
+SKL-000133,Database Security,Database
+SKL-000134,High Availability Databases,Database
+SKL-000135,Terraform,Cloud and DevOps
+SKL-000136,Ansible,Cloud and DevOps
+SKL-000137,Helm,Cloud and DevOps
+SKL-000138,Argo CD,Cloud and DevOps
+SKL-000139,Prometheus,Cloud and DevOps
+SKL-000140,Grafana,Cloud and DevOps
+SKL-000141,AWS Lambda,Cloud and DevOps
+SKL-000142,Azure Functions,Cloud and DevOps
+SKL-000143,Serverless Architecture,Cloud and DevOps
+SKL-000144,Infrastructure as Code,Cloud and DevOps
+SKL-000145,Cloud Observability,Cloud and DevOps
+SKL-000146,CI/CD Pipeline Design,Cloud and DevOps
+SKL-000147,Container Security,Cloud and DevOps
+SKL-000148,Cloud Cost Optimization,Cloud and DevOps
+SKL-000149,Vue.js,Web Development
+SKL-000150,Angular,Web Development
+SKL-000151,Svelte,Web Development
+SKL-000152,Next.js,Web Development
+SKL-000153,Express.js,Web Development
+SKL-000154,Spring Boot,Web Development
+SKL-000155,ASP.NET Core,Web Development
+SKL-000156,GraphQL APIs,Web Development
+SKL-000157,Web Accessibility,Web Development
+SKL-000158,Responsive Web Design,Web Development
+SKL-000159,Web Performance Optimization,Web Development
+SKL-000160,OAuth 2.0 and OpenID Connect,Web Development
+SKL-000161,WebSockets,Web Development
+SKL-000162,Progressive Web Apps,Web Development
+SKL-000163,Stakeholder Management,Project Management
+SKL-000164,Project Budgeting,Project Management
+SKL-000165,Change Management,Project Management
+SKL-000166,Portfolio Management,Project Management
+SKL-000167,Sprint Planning,Project Management
+SKL-000168,Vendor Management,Project Management
+SKL-000169,Project Governance,Project Management
+SKL-000170,Project Risk Assessment,Project Management
+SKL-000171,Interaction Design,Design
+SKL-000172,Design Systems,Design
+SKL-000173,Visual Design,Design
+SKL-000174,Accessibility Design,Design
+SKL-000175,Usability Testing,Design
+SKL-000176,Information Architecture,Design
+SKL-000177,Threat Modeling,Cybersecurity
+SKL-000178,Incident Response,Cybersecurity
+SKL-000179,Security Operations Center,Cybersecurity
+SKL-000180,Identity and Access Management,Cybersecurity
+SKL-000181,Cloud Security,Cybersecurity
+SKL-000182,Application Security,Cybersecurity
+SKL-000183,Penetration Testing,Cybersecurity
+SKL-000184,Vulnerability Management,Cybersecurity
+SKL-000185,Security Auditing,Cybersecurity
+SKL-000186,Zero Trust Architecture,Cybersecurity
+SKL-000187,Digital Forensics,Cybersecurity
+SKL-000188,Security Information and Event Management,Cybersecurity
+SKL-000189,Endpoint Detection and Response,Cybersecurity
+SKL-000190,Data Loss Prevention,Cybersecurity
+SKL-000191,Network Security,Cybersecurity
+SKL-000192,Cryptography,Cybersecurity
+SKL-000193,Secure Software Development,Cybersecurity
+SKL-000194,Privacy Engineering,Cybersecurity
+SKL-000195,Phishing Awareness,Cybersecurity
+SKL-000196,Business Continuity Security,Cybersecurity
+SKL-000197,ETL Pipeline Development,Data Engineering
+SKL-000198,ELT Pipeline Development,Data Engineering
+SKL-000199,Apache Spark,Data Engineering
+SKL-000200,Apache Kafka,Data Engineering
+SKL-000201,Apache Airflow,Data Engineering
+SKL-000202,dbt,Data Engineering
+SKL-000203,Data Lake Architecture,Data Engineering
+SKL-000204,Lakehouse Architecture,Data Engineering
+SKL-000205,Data Warehouse Design,Data Engineering
+SKL-000206,Data Modeling for Analytics,Data Engineering
+SKL-000207,Data Pipeline Monitoring,Data Engineering
+SKL-000208,Batch Processing,Data Engineering
+SKL-000209,Stream Processing,Data Engineering
+SKL-000210,Change Data Capture,Data Engineering
+SKL-000211,Data Cataloging,Data Engineering
+SKL-000212,Master Data Management,Data Engineering
+SKL-000213,Data Lineage,Data Engineering
+SKL-000214,BigQuery,Data Engineering
+SKL-000215,Amazon Redshift,Data Engineering
+SKL-000216,Azure Data Factory,Data Engineering
+SKL-000217,Financial Planning and Analysis,Business and Finance
+SKL-000218,Financial Modeling,Business and Finance
+SKL-000219,Budget Forecasting,Business and Finance
+SKL-000220,Management Accounting,Business and Finance
+SKL-000221,Financial Reporting,Business and Finance
+SKL-000222,Accounts Payable,Business and Finance
+SKL-000223,Accounts Receivable,Business and Finance
+SKL-000224,Payroll Accounting,Business and Finance
+SKL-000225,Revenue Analysis,Business and Finance
+SKL-000226,Cost Accounting,Business and Finance
+SKL-000227,Cash Flow Management,Business and Finance
+SKL-000228,Procurement Finance,Business and Finance
+SKL-000229,Business Process Analysis,Business and Finance
+SKL-000230,Business Case Development,Business and Finance
+SKL-000231,Regulatory Reporting,Business and Finance
+SKL-000232,Financial Risk Analysis,Business and Finance
+SKL-000233,SAP S/4HANA,Enterprise Platforms
+SKL-000234,Salesforce Administration,Enterprise Platforms
+SKL-000235,Microsoft Dynamics 365,Enterprise Platforms
+SKL-000236,ServiceNow Administration,Enterprise Platforms
+SKL-000237,Workday Administration,Enterprise Platforms
+SKL-000238,Oracle ERP Cloud,Enterprise Platforms
+SKL-000239,SharePoint Administration,Enterprise Platforms
+SKL-000240,Microsoft Power Platform,Enterprise Platforms
+SKL-000241,Salesforce CRM Analytics,Enterprise Platforms
+SKL-000242,ERP Configuration,Enterprise Platforms
+SKL-000243,CRM Configuration,Enterprise Platforms
+SKL-000244,Enterprise Integration,Enterprise Platforms
+SKL-000245,Master Data Configuration,Enterprise Platforms
+SKL-000246,Enterprise Platform Security,Enterprise Platforms
+SKL-000247,Identity Federation,Enterprise Platforms
+SKL-000248,Enterprise Workflow Automation,Enterprise Platforms
+SKL-000249,Workforce Planning,HR and Workforce
+SKL-000250,Talent Acquisition,HR and Workforce
+SKL-000251,Interview Design,HR and Workforce
+SKL-000252,Employee Relations,HR and Workforce
+SKL-000253,Compensation Analysis,HR and Workforce
+SKL-000254,Benefits Administration,HR and Workforce
+SKL-000255,Learning and Development,HR and Workforce
+SKL-000256,Performance Management,HR and Workforce
+SKL-000257,HR Analytics,HR and Workforce
+SKL-000258,Job Architecture,HR and Workforce
+SKL-000259,Succession Planning,HR and Workforce
+SKL-000260,People Operations,HR and Workforce
+SKL-000261,Diversity and Inclusion Programs,HR and Workforce
+SKL-000262,Employment Policy Administration,HR and Workforce
+SKL-000263,Supply Chain Planning,Operations and Supply Chain
+SKL-000264,Inventory Management,Operations and Supply Chain
+SKL-000265,Demand Planning,Operations and Supply Chain
+SKL-000266,Logistics Management,Operations and Supply Chain
+SKL-000267,Warehouse Operations,Operations and Supply Chain
+SKL-000268,Supplier Management,Operations and Supply Chain
+SKL-000269,Process Improvement,Operations and Supply Chain
+SKL-000270,Lean Operations,Operations and Supply Chain
+SKL-000271,Six Sigma,Operations and Supply Chain
+SKL-000272,Quality Management Systems,Operations and Supply Chain
+SKL-000273,Production Planning,Operations and Supply Chain
+SKL-000274,Service Operations,Operations and Supply Chain
+SKL-000275,Business Continuity Planning,Operations and Supply Chain
+SKL-000276,Operational Risk Management,Operations and Supply Chain
+SKL-000277,Test Automation,Quality Assurance and Testing
+SKL-000278,API Testing,Quality Assurance and Testing
+SKL-000279,Performance Testing,Quality Assurance and Testing
+SKL-000280,Load Testing,Quality Assurance and Testing
+SKL-000281,Security Testing,Quality Assurance and Testing
+SKL-000282,Mobile Application Testing,Quality Assurance and Testing
+SKL-000283,Regression Testing,Quality Assurance and Testing
+SKL-000284,Test Planning,Quality Assurance and Testing
+SKL-000285,Test Case Design,Quality Assurance and Testing
+SKL-000286,Continuous Testing,Quality Assurance and Testing
+SKL-000287,Accessibility Testing,Quality Assurance and Testing
+SKL-000288,Defect Management,Quality Assurance and Testing
+SKL-000289,Product Strategy,Product Management
+SKL-000290,Product Roadmapping,Product Management
+SKL-000291,Product Discovery,Product Management
+SKL-000292,Product Analytics,Product Management
+SKL-000293,User Story Mapping,Product Management
+SKL-000294,Backlog Management,Product Management
+SKL-000295,Product Lifecycle Management,Product Management
+SKL-000296,Market Research,Product Management
+SKL-000297,Go-to-Market Planning,Product Management
+SKL-000298,Product Requirements,Product Management
+SKL-000299,Customer Journey Mapping,Product Management
+SKL-000300,Pricing Strategy,Product Management

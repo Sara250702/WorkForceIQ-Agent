@@ -1,0 +1,501 @@
+project_id,project_name,department,start_date,end_date,project_status,approval_probability
+PRJ-2026-000001,Synergized heuristic paradigm,IT Operations,2027-04-28,2027-12-24,active,0.5
+PRJ-2026-000002,Horizontal context-sensitive application,Data & AI,2026-09-15,2027-03-11,planned,0.9
+PRJ-2026-000003,Front-line discrete encoding,Data & AI,2026-07-21,2026-10-19,planned,0.78
+PRJ-2026-000004,Adaptive transitional moratorium,Engineering,2027-04-16,2028-04-28,completed,0.85
+PRJ-2026-000005,De-engineered analyzing customer loyalty,Data & AI,2027-01-30,2027-05-29,active,0.4
+PRJ-2026-000006,Ergonomic fault-tolerant productivity,Data & AI,2026-07-12,2027-03-17,active,0.68
+PRJ-2026-000007,Total stable process improvement,Data & AI,2026-06-15,2027-10-14,planned,0.44
+PRJ-2026-000008,Customer-focused user-facing core,Data & AI,2026-07-09,2027-06-22,active,0.71
+PRJ-2026-000009,Versatile coherent migration,Data & AI,2026-07-02,2027-11-05,active,0.86
+PRJ-2026-000010,Customizable didactic parallelism,Human Resources,2026-06-29,2027-04-03,completed,0.87
+PRJ-2026-000011,Organized 24hour parallelism,Human Resources,2026-07-18,2027-11-27,on_hold,0.52
+PRJ-2026-000012,Customizable holistic circuit,Engineering,2026-06-13,2027-10-30,active,0.58
+PRJ-2026-000013,Reduced grid-enabled leverage,Engineering,2026-08-21,2026-10-22,planned,0.53
+PRJ-2026-000014,Centralized analyzing circuit,Design,2027-01-19,2027-11-20,planned,0.72
+PRJ-2026-000015,Digitized logistical architecture,Engineering,2026-06-14,2027-02-16,completed,0.76
+PRJ-2026-000016,Customer-focused non-volatile definition,Design,2026-11-24,2027-01-25,active,0.54
+PRJ-2026-000017,Profound multimedia groupware,Design,2026-05-29,2027-08-18,planned,0.91
+PRJ-2026-000018,Cross-platform context-sensitive Internet solution,IT Operations,2027-01-27,2028-04-08,active,0.84
+PRJ-2026-000019,Seamless well-modulated instruction set,Engineering,2026-10-19,2027-08-14,completed,0.47
+PRJ-2026-000020,Cross-group interactive knowledgebase,IT Operations,2026-10-11,2027-10-03,planned,0.43
+PRJ-2026-000021,Triple-buffered well-modulated time-frame,Engineering,2027-01-28,2028-04-28,active,0.57
+PRJ-2026-000022,Balanced clear-thinking info-mediaries,Design,2026-05-25,2027-03-16,active,0.52
+PRJ-2026-000023,Progressive demand-driven system engine,IT Operations,2026-10-23,2027-11-15,active,0.81
+PRJ-2026-000024,Centralized asynchronous hub,IT Operations,2027-01-31,2028-04-06,on_hold,0.57
+PRJ-2026-000025,Cross-platform exuding middleware,Management,2027-04-19,2028-08-28,active,0.97
+PRJ-2026-000026,Ergonomic 24hour attitude,IT Operations,2027-02-23,2028-06-15,active,0.84
+PRJ-2026-000027,Compatible human-resource definition,Data & AI,2026-11-14,2027-04-14,active,0.68
+PRJ-2026-000028,Re-contextualized mobile matrices,Data & AI,2026-10-11,2027-07-29,active,0.4
+PRJ-2026-000029,Self-enabling asynchronous support,Quality Assurance,2027-04-07,2028-08-02,active,0.75
+PRJ-2026-000030,Public-key well-modulated approach,Quality Assurance,2027-04-24,2028-03-24,completed,0.54
+PRJ-2026-000031,Multi-lateral 6thgeneration throughput,Quality Assurance,2027-05-10,2027-09-10,completed,0.97
+PRJ-2026-000032,Reverse-engineered homogeneous ability,Quality Assurance,2026-12-22,2028-02-06,active,0.49
+PRJ-2026-000033,Upgradable mission-critical alliance,Design,2026-09-17,2027-09-02,planned,0.66
+PRJ-2026-000034,Front-line 4thgeneration system engine,Engineering,2027-03-06,2027-11-11,planned,0.6
+PRJ-2026-000035,Triple-buffered cohesive framework,Quality Assurance,2026-06-12,2027-01-18,completed,0.76
+PRJ-2026-000036,Programmable motivating support,Design,2026-08-23,2026-10-27,active,0.62
+PRJ-2026-000037,Programmable static hub,Human Resources,2027-03-20,2028-02-15,planned,0.76
+PRJ-2026-000038,Upgradable 6thgeneration function,Human Resources,2026-08-01,2027-01-20,completed,0.95
+PRJ-2026-000039,Persistent 24/7 capability,Data & AI,2026-06-16,2026-10-04,active,0.96
+PRJ-2026-000040,Assimilated explicit paradigm,Human Resources,2026-07-29,2027-04-21,active,0.94
+PRJ-2026-000041,Reverse-engineered actuating analyzer,IT Operations,2026-11-30,2027-07-18,on_hold,0.89
+PRJ-2026-000042,Upgradable motivating time-frame,Design,2026-06-09,2026-09-26,active,0.71
+PRJ-2026-000043,Advanced human-resource migration,Engineering,2027-01-12,2027-05-16,active,0.51
+PRJ-2026-000044,Grass-roots intermediate adapter,Human Resources,2027-01-14,2027-11-14,active,0.59
+PRJ-2026-000045,Persevering upward-trending Graphical User Interface,IT Operations,2027-03-16,2027-09-06,planned,0.99
+PRJ-2026-000046,Synchronized dedicated solution,IT Operations,2026-09-05,2027-05-22,active,0.86
+PRJ-2026-000047,Intuitive secondary portal,Design,2026-12-06,2027-10-21,active,0.93
+PRJ-2026-000048,Realigned system-worthy secured line,Engineering,2026-08-17,2027-12-19,planned,0.8
+PRJ-2026-000049,Profound uniform moderator,Design,2027-01-06,2027-03-27,completed,0.73
+PRJ-2026-000050,Pre-emptive even-keeled synergy,Design,2027-04-18,2028-03-26,active,0.74
+PRJ-2026-000051,Switchable eco-centric functionalities,Data & AI,2026-09-20,2028-01-13,active,0.79
+PRJ-2026-000052,Profound hybrid utilization,Engineering,2026-11-09,2028-01-28,planned,0.73
+PRJ-2026-000053,Realigned non-volatile help-desk,Data & AI,2026-09-15,2027-04-19,active,0.61
+PRJ-2026-000054,Universal user-facing website,Data & AI,2026-06-17,2027-11-21,active,0.49
+PRJ-2026-000055,Multi-channeled context-sensitive collaboration,Data & AI,2026-12-20,2027-12-03,active,0.88
+PRJ-2026-000056,Profit-focused coherent Local Area Network,Human Resources,2027-05-07,2027-12-15,planned,0.98
+PRJ-2026-000057,Profound explicit knowledge user,Data & AI,2026-08-25,2026-11-09,active,0.47
+PRJ-2026-000058,Distributed secondary access,Management,2026-11-07,2027-07-18,active,0.81
+PRJ-2026-000059,Automated scalable knowledgebase,IT Operations,2026-07-20,2027-03-10,planned,0.69
+PRJ-2026-000060,Team-oriented optimal flexibility,Quality Assurance,2027-03-02,2028-03-02,on_hold,0.47
+PRJ-2026-000061,Synergistic national task-force,Design,2027-03-28,2028-07-06,active,0.7
+PRJ-2026-000062,Profound discrete strategy,Management,2026-10-11,2028-01-18,planned,0.6
+PRJ-2026-000063,Decentralized value-added matrix,Human Resources,2026-10-05,2026-12-06,on_hold,0.83
+PRJ-2026-000064,Optional systemic open architecture,Management,2026-09-29,2026-12-16,planned,0.72
+PRJ-2026-000065,Digitized coherent matrices,Data & AI,2027-04-23,2028-04-24,planned,0.86
+PRJ-2026-000066,Fully-configurable non-volatile superstructure,Management,2026-11-08,2028-02-22,planned,0.58
+PRJ-2026-000067,Ameliorated real-time Internet solution,IT Operations,2027-03-05,2028-02-14,planned,0.52
+PRJ-2026-000068,Profit-focused object-oriented hub,Design,2026-11-30,2028-03-06,planned,0.46
+PRJ-2026-000069,Cross-group contextually-based initiative,IT Operations,2026-11-12,2027-01-31,completed,0.58
+PRJ-2026-000070,Mandatory analyzing functionalities,Management,2026-10-26,2027-06-24,active,0.6
+PRJ-2026-000071,Customer-focused real-time software,Human Resources,2026-11-16,2028-04-08,planned,0.61
+PRJ-2026-000072,Exclusive 24/7 superstructure,Design,2027-05-05,2027-11-13,active,0.55
+PRJ-2026-000073,Future-proofed uniform help-desk,Engineering,2026-11-06,2028-01-05,planned,0.76
+PRJ-2026-000074,Multi-tiered real-time monitoring,Data & AI,2026-10-04,2028-02-25,planned,0.88
+PRJ-2026-000075,Persevering asymmetric process improvement,Data & AI,2027-02-02,2027-05-02,active,0.44
+PRJ-2026-000076,Robust 3rdgeneration collaboration,Engineering,2026-08-06,2028-01-11,completed,0.54
+PRJ-2026-000077,Face-to-face mobile system engine,Design,2026-12-12,2028-05-04,planned,0.8
+PRJ-2026-000078,Exclusive impactful architecture,Engineering,2027-04-06,2028-04-25,active,0.6
+PRJ-2026-000079,Cross-platform demand-driven leverage,Data & AI,2026-11-11,2027-12-03,active,0.89
+PRJ-2026-000080,Front-line client-server initiative,Quality Assurance,2026-09-08,2027-04-02,on_hold,0.77
+PRJ-2026-000081,Optimized holistic contingency,IT Operations,2027-03-22,2028-03-31,on_hold,0.65
+PRJ-2026-000082,User-centric human-resource groupware,Human Resources,2026-10-20,2027-03-15,completed,0.69
+PRJ-2026-000083,Robust fault-tolerant workforce,Engineering,2027-04-23,2027-08-22,completed,0.9
+PRJ-2026-000084,Business-focused actuating attitude,Design,2026-06-19,2027-11-29,active,0.92
+PRJ-2026-000085,Streamlined scalable knowledgebase,Engineering,2026-09-07,2027-01-06,completed,0.68
+PRJ-2026-000086,Programmable directional leverage,Management,2026-10-20,2027-12-28,planned,0.82
+PRJ-2026-000087,De-engineered analyzing forecast,Engineering,2026-11-21,2027-06-03,completed,0.89
+PRJ-2026-000088,Enhanced value-added matrices,Quality Assurance,2026-08-12,2027-08-08,on_hold,0.49
+PRJ-2026-000089,Polarized interactive hierarchy,Human Resources,2027-01-01,2027-06-01,active,0.96
+PRJ-2026-000090,Object-based fresh-thinking approach,Data & AI,2026-07-23,2026-11-19,on_hold,0.45
+PRJ-2026-000091,Right-sized directional moratorium,Quality Assurance,2027-04-02,2027-09-20,planned,0.42
+PRJ-2026-000092,Devolved neutral success,Data & AI,2026-08-08,2027-09-17,on_hold,0.43
+PRJ-2026-000093,Face-to-face human-resource migration,Data & AI,2026-06-28,2027-11-20,on_hold,0.92
+PRJ-2026-000094,Realigned logistical throughput,Data & AI,2026-07-01,2026-09-15,planned,0.56
+PRJ-2026-000095,Cloned impactful middleware,Data & AI,2027-03-25,2027-12-11,planned,0.96
+PRJ-2026-000096,User-centric object-oriented model,IT Operations,2026-08-31,2027-08-14,planned,0.57
+PRJ-2026-000097,Cross-group contextually-based array,Design,2026-05-20,2026-08-14,completed,0.85
+PRJ-2026-000098,Compatible static orchestration,Data & AI,2026-09-29,2028-02-07,active,0.98
+PRJ-2026-000099,Persistent 6thgeneration superstructure,Management,2027-04-01,2027-11-09,on_hold,0.49
+PRJ-2026-000100,Visionary discrete open architecture,Engineering,2026-06-14,2027-05-18,active,0.56
+PRJ-2026-000101,Switchable neutral software,Design,2027-02-09,2028-01-31,active,0.84
+PRJ-2026-000102,Integrated cohesive open system,Human Resources,2027-04-02,2028-04-18,planned,0.49
+PRJ-2026-000103,Mandatory eco-centric conglomeration,Quality Assurance,2027-01-19,2027-05-06,completed,0.59
+PRJ-2026-000104,Programmable even-keeled project,Human Resources,2026-11-17,2028-01-27,active,0.8
+PRJ-2026-000105,Reduced grid-enabled system engine,Management,2026-09-10,2028-01-25,planned,0.74
+PRJ-2026-000106,Balanced analyzing neural-net,Data & AI,2026-09-07,2027-09-13,active,0.4
+PRJ-2026-000107,Quality-focused encompassing encoding,Design,2026-06-28,2026-10-27,active,0.7
+PRJ-2026-000108,Integrated clear-thinking forecast,Management,2027-02-05,2027-08-07,planned,0.75
+PRJ-2026-000109,Multi-channeled heuristic protocol,Engineering,2027-03-14,2027-09-12,completed,0.58
+PRJ-2026-000110,Cloned clear-thinking solution,Design,2026-06-03,2027-05-19,completed,0.75
+PRJ-2026-000111,Seamless coherent interface,Data & AI,2026-10-03,2028-01-31,planned,0.57
+PRJ-2026-000112,Re-contextualized contextually-based function,Data & AI,2027-02-07,2027-12-13,completed,0.84
+PRJ-2026-000113,Organized tangible functionalities,Quality Assurance,2026-08-09,2026-12-13,active,0.94
+PRJ-2026-000114,Networked dedicated website,Design,2027-04-12,2028-03-24,completed,0.81
+PRJ-2026-000115,Progressive dedicated alliance,Human Resources,2027-03-21,2027-11-17,planned,0.55
+PRJ-2026-000116,Exclusive systemic capability,Data & AI,2026-12-10,2027-10-17,planned,0.97
+PRJ-2026-000117,Reverse-engineered grid-enabled implementation,IT Operations,2027-03-09,2028-08-06,active,0.66
+PRJ-2026-000118,Multi-channeled mission-critical hardware,Human Resources,2026-07-07,2027-10-01,planned,0.98
+PRJ-2026-000119,Team-oriented clear-thinking Graphical User Interface,Human Resources,2026-12-01,2027-10-22,active,0.53
+PRJ-2026-000120,Seamless dedicated extranet,Human Resources,2026-07-10,2027-11-22,planned,0.91
+PRJ-2026-000121,Polarized background open system,Management,2027-04-09,2027-07-17,planned,0.52
+PRJ-2026-000122,Right-sized zero administration hierarchy,Engineering,2026-09-23,2027-07-11,completed,0.72
+PRJ-2026-000123,Decentralized systematic process improvement,IT Operations,2026-11-10,2027-05-31,completed,0.62
+PRJ-2026-000124,Self-enabling modular system engine,Data & AI,2027-02-07,2028-07-19,completed,0.55
+PRJ-2026-000125,Proactive 3rdgeneration frame,Design,2027-03-01,2028-07-11,completed,0.91
+PRJ-2026-000126,Implemented bottom-line groupware,Design,2027-01-21,2027-05-30,planned,0.85
+PRJ-2026-000127,Realigned even-keeled ability,Data & AI,2026-10-09,2027-11-02,on_hold,0.75
+PRJ-2026-000128,Optional static structure,Design,2027-04-12,2027-09-07,completed,0.59
+PRJ-2026-000129,Multi-tiered encompassing alliance,Engineering,2027-04-11,2027-08-21,on_hold,0.86
+PRJ-2026-000130,Innovative bifurcated circuit,Human Resources,2026-10-03,2027-09-18,completed,0.97
+PRJ-2026-000131,Progressive needs-based secured line,Engineering,2026-11-22,2027-03-24,active,0.84
+PRJ-2026-000132,Right-sized client-driven circuit,Human Resources,2026-08-29,2027-01-18,planned,0.89
+PRJ-2026-000133,Cross-platform well-modulated approach,Design,2027-03-30,2027-08-12,active,0.99
+PRJ-2026-000134,Monitored even-keeled benchmark,Engineering,2027-02-12,2028-05-22,planned,0.75
+PRJ-2026-000135,Fundamental explicit synergy,IT Operations,2026-11-14,2027-04-30,completed,0.89
+PRJ-2026-000136,Re-engineered next generation parallelism,Data & AI,2026-09-03,2026-12-03,planned,0.86
+PRJ-2026-000137,Enhanced next generation database,Design,2026-06-24,2027-08-19,completed,0.74
+PRJ-2026-000138,Networked zero tolerance support,Engineering,2026-07-07,2027-09-18,completed,0.58
+PRJ-2026-000139,Ameliorated high-level benchmark,Quality Assurance,2026-06-28,2027-06-16,active,0.91
+PRJ-2026-000140,User-friendly heuristic analyzer,Human Resources,2027-03-06,2027-06-17,on_hold,0.56
+PRJ-2026-000141,Realigned transitional knowledgebase,IT Operations,2026-10-19,2028-02-09,planned,0.52
+PRJ-2026-000142,Innovative composite Graphic Interface,Human Resources,2026-09-22,2027-11-22,on_hold,0.43
+PRJ-2026-000143,Multi-channeled holistic moratorium,Quality Assurance,2026-07-19,2027-10-06,on_hold,0.82
+PRJ-2026-000144,Business-focused full-range website,Human Resources,2026-10-02,2027-09-28,on_hold,0.54
+PRJ-2026-000145,Multi-lateral mission-critical application,Human Resources,2026-05-25,2027-03-11,completed,0.95
+PRJ-2026-000146,Customer-focused grid-enabled circuit,Management,2026-11-24,2027-03-25,completed,0.64
+PRJ-2026-000147,Team-oriented empowering protocol,Management,2026-07-29,2027-01-24,completed,0.67
+PRJ-2026-000148,Multi-lateral high-level encryption,Data & AI,2026-06-25,2026-12-16,active,0.51
+PRJ-2026-000149,Switchable global structure,Quality Assurance,2027-03-08,2028-06-23,planned,0.57
+PRJ-2026-000150,Cross-group 5thgeneration emulation,Human Resources,2026-11-27,2028-03-25,completed,0.82
+PRJ-2026-000151,Robust even-keeled database,Design,2026-09-12,2027-08-20,planned,0.96
+PRJ-2026-000152,Cross-group zero-defect workforce,Human Resources,2027-01-22,2028-06-14,planned,0.89
+PRJ-2026-000153,Integrated multimedia approach,IT Operations,2026-10-10,2028-01-11,completed,0.84
+PRJ-2026-000154,Face-to-face hybrid array,Quality Assurance,2026-08-22,2027-01-21,planned,0.52
+PRJ-2026-000155,Centralized full-range structure,Data & AI,2026-07-23,2026-11-28,completed,0.91
+PRJ-2026-000156,Diverse bottom-line support,Engineering,2027-01-19,2027-06-12,active,0.96
+PRJ-2026-000157,Adaptive discrete Local Area Network,IT Operations,2026-07-23,2026-11-10,on_hold,0.4
+PRJ-2026-000158,Open-source value-added ability,Human Resources,2026-09-13,2027-02-20,active,0.72
+PRJ-2026-000159,Profit-focused stable approach,Data & AI,2027-04-06,2028-01-26,planned,0.72
+PRJ-2026-000160,Sharable scalable application,Design,2026-06-04,2026-12-27,on_hold,0.45
+PRJ-2026-000161,Intuitive full-range installation,Quality Assurance,2026-06-28,2027-06-20,active,0.64
+PRJ-2026-000162,Multi-channeled scalable concept,Quality Assurance,2027-03-02,2027-05-31,active,0.94
+PRJ-2026-000163,Grass-roots optimizing emulation,Quality Assurance,2027-02-27,2027-06-11,planned,0.86
+PRJ-2026-000164,Horizontal local pricing structure,Quality Assurance,2026-11-05,2027-04-07,planned,0.88
+PRJ-2026-000165,Robust reciprocal migration,Human Resources,2026-06-16,2027-03-31,planned,0.56
+PRJ-2026-000166,Switchable incremental moratorium,Data & AI,2026-12-09,2027-07-17,planned,0.75
+PRJ-2026-000167,Integrated composite implementation,Management,2026-09-09,2027-06-27,planned,0.59
+PRJ-2026-000168,Versatile eco-centric matrices,Quality Assurance,2026-07-27,2027-07-28,planned,0.62
+PRJ-2026-000169,Balanced user-facing secured line,Design,2026-05-20,2027-10-04,completed,0.5
+PRJ-2026-000170,Decentralized 24hour time-frame,Engineering,2027-03-28,2027-06-28,planned,0.55
+PRJ-2026-000171,Diverse asymmetric superstructure,Design,2026-11-23,2027-12-27,completed,0.52
+PRJ-2026-000172,Inverse zero administration definition,Quality Assurance,2026-05-17,2026-08-09,active,0.77
+PRJ-2026-000173,Decentralized actuating analyzer,Human Resources,2026-11-12,2028-03-01,completed,0.82
+PRJ-2026-000174,Phased 4thgeneration function,Quality Assurance,2026-06-28,2026-12-17,active,0.48
+PRJ-2026-000175,Upgradable executive algorithm,Quality Assurance,2027-03-15,2028-01-12,active,0.82
+PRJ-2026-000176,Re-contextualized tertiary customer loyalty,Data & AI,2026-07-26,2026-11-23,active,0.92
+PRJ-2026-000177,Multi-layered empowering array,Engineering,2026-09-24,2027-12-07,completed,0.9
+PRJ-2026-000178,Self-enabling system-worthy success,Data & AI,2027-04-26,2028-06-20,planned,0.82
+PRJ-2026-000179,Enhanced optimizing time-frame,Human Resources,2027-01-18,2027-04-26,completed,0.79
+PRJ-2026-000180,Persevering client-server time-frame,Design,2026-05-20,2027-05-05,completed,0.65
+PRJ-2026-000181,Organized context-sensitive implementation,IT Operations,2027-04-17,2027-10-02,planned,0.53
+PRJ-2026-000182,Intuitive uniform support,Human Resources,2026-09-24,2027-08-09,planned,0.82
+PRJ-2026-000183,Devolved bifurcated contingency,Design,2026-07-29,2026-12-21,on_hold,0.64
+PRJ-2026-000184,Re-contextualized asynchronous collaboration,Human Resources,2026-05-26,2027-03-17,completed,0.41
+PRJ-2026-000185,Self-enabling didactic toolset,Management,2027-05-08,2028-02-12,planned,0.59
+PRJ-2026-000186,Centralized hybrid alliance,Data & AI,2027-04-24,2027-09-01,planned,0.8
+PRJ-2026-000187,Integrated composite service-desk,Quality Assurance,2026-11-26,2028-03-01,on_hold,0.85
+PRJ-2026-000188,Diverse composite application,Design,2027-02-04,2027-10-17,active,0.91
+PRJ-2026-000189,Cross-group dynamic hierarchy,Management,2026-06-16,2027-10-29,completed,0.93
+PRJ-2026-000190,Polarized background alliance,Quality Assurance,2027-02-09,2028-07-23,active,0.63
+PRJ-2026-000191,Diverse didactic initiative,IT Operations,2026-08-10,2026-10-12,active,0.46
+PRJ-2026-000192,Fundamental real-time pricing structure,Human Resources,2027-03-23,2028-04-01,planned,0.82
+PRJ-2026-000193,Object-based content-based encoding,Data & AI,2027-04-11,2028-07-23,active,0.77
+PRJ-2026-000194,Realigned didactic open system,IT Operations,2026-09-22,2027-11-12,active,0.75
+PRJ-2026-000195,Programmable client-driven contingency,Data & AI,2026-12-23,2028-05-19,active,0.86
+PRJ-2026-000196,Horizontal systemic access,Engineering,2026-11-12,2027-08-16,planned,0.49
+PRJ-2026-000197,Business-focused upward-trending interface,Human Resources,2027-03-29,2028-03-20,completed,0.44
+PRJ-2026-000198,User-friendly zero-defect flexibility,Design,2026-11-23,2027-07-22,active,0.84
+PRJ-2026-000199,Devolved logistical customer loyalty,IT Operations,2026-09-13,2027-06-21,planned,0.69
+PRJ-2026-000200,Self-enabling foreground forecast,Data & AI,2027-05-02,2028-04-30,active,0.69
+PRJ-2026-000201,Mandatory cohesive migration,Design,2026-06-21,2027-07-03,active,0.42
+PRJ-2026-000202,Centralized needs-based array,IT Operations,2026-12-23,2027-10-05,active,0.94
+PRJ-2026-000203,Progressive human-resource firmware,Data & AI,2026-11-28,2027-09-14,active,0.51
+PRJ-2026-000204,Exclusive multi-tasking paradigm,Engineering,2027-04-17,2027-08-16,active,0.67
+PRJ-2026-000205,Stand-alone modular knowledgebase,Quality Assurance,2026-10-30,2027-04-20,completed,0.63
+PRJ-2026-000206,Upgradable clear-thinking product,Human Resources,2026-09-24,2027-09-25,completed,0.71
+PRJ-2026-000207,Self-enabling mission-critical challenge,Engineering,2026-07-25,2027-02-11,completed,0.73
+PRJ-2026-000208,Innovative client-server matrix,Quality Assurance,2027-02-08,2028-05-30,active,0.44
+PRJ-2026-000209,Cross-group tertiary task-force,Design,2027-03-25,2028-08-18,active,0.59
+PRJ-2026-000210,Inverse mission-critical hierarchy,Quality Assurance,2026-07-05,2027-09-06,active,0.79
+PRJ-2026-000211,User-centric incremental functionalities,Management,2026-11-13,2027-07-11,active,0.76
+PRJ-2026-000212,Monitored stable product,Design,2026-12-18,2028-01-21,on_hold,0.94
+PRJ-2026-000213,Focused global array,Human Resources,2026-09-18,2027-08-05,active,0.89
+PRJ-2026-000214,Face-to-face non-volatile neural-net,Quality Assurance,2027-05-10,2028-02-11,planned,0.44
+PRJ-2026-000215,Face-to-face real-time core,Data & AI,2026-07-24,2027-05-03,completed,0.68
+PRJ-2026-000216,Optimized human-resource ability,Management,2027-05-01,2027-08-10,active,0.57
+PRJ-2026-000217,Balanced background capability,Engineering,2026-08-26,2027-11-05,active,0.86
+PRJ-2026-000218,Total impactful Graphic Interface,Design,2026-10-23,2027-03-22,completed,0.64
+PRJ-2026-000219,Profound radical model,Quality Assurance,2026-07-31,2027-06-09,completed,0.78
+PRJ-2026-000220,Front-line encompassing artificial intelligence,Data & AI,2026-09-11,2027-06-19,active,0.74
+PRJ-2026-000221,Reduced optimizing parallelism,Data & AI,2027-01-13,2027-07-19,active,0.51
+PRJ-2026-000222,Front-line bifurcated circuit,Quality Assurance,2027-03-17,2028-01-12,completed,0.84
+PRJ-2026-000223,Integrated real-time alliance,IT Operations,2027-02-19,2027-12-11,planned,0.5
+PRJ-2026-000224,Re-contextualized secondary synergy,Design,2026-07-07,2027-01-13,active,0.57
+PRJ-2026-000225,Synchronized optimizing frame,IT Operations,2026-05-27,2027-07-31,planned,0.92
+PRJ-2026-000226,Grass-roots composite encryption,Data & AI,2026-07-03,2027-12-23,on_hold,0.8
+PRJ-2026-000227,Open-architected even-keeled info-mediaries,Quality Assurance,2026-07-24,2027-07-14,planned,0.88
+PRJ-2026-000228,Progressive mobile complexity,Design,2027-01-21,2028-01-31,active,0.6
+PRJ-2026-000229,Virtual 3rdgeneration superstructure,IT Operations,2027-02-25,2028-01-23,completed,0.47
+PRJ-2026-000230,Reverse-engineered composite capacity,Engineering,2027-01-05,2027-07-05,completed,0.8
+PRJ-2026-000231,Stand-alone encompassing projection,Engineering,2027-03-29,2027-06-07,active,0.8
+PRJ-2026-000232,Realigned tangible emulation,Design,2026-08-15,2026-11-09,planned,0.93
+PRJ-2026-000233,Synergistic encompassing portal,Data & AI,2027-04-30,2027-12-18,active,0.43
+PRJ-2026-000234,Multi-channeled impactful encryption,Human Resources,2027-01-10,2027-04-01,completed,0.53
+PRJ-2026-000235,Business-focused disintermediate system engine,Quality Assurance,2026-08-08,2027-01-01,completed,0.43
+PRJ-2026-000236,Open-source mobile encryption,IT Operations,2026-08-11,2027-06-30,active,0.52
+PRJ-2026-000237,Advanced composite moderator,Data & AI,2026-09-10,2027-03-22,planned,0.68
+PRJ-2026-000238,Reduced optimal flexibility,IT Operations,2027-04-15,2028-06-24,active,0.82
+PRJ-2026-000239,Object-based intermediate parallelism,IT Operations,2026-08-16,2026-11-11,planned,0.52
+PRJ-2026-000240,Customer-focused well-modulated info-mediaries,Management,2026-06-08,2026-09-14,planned,0.52
+PRJ-2026-000241,Face-to-face motivating initiative,Quality Assurance,2027-03-29,2027-05-29,planned,0.59
+PRJ-2026-000242,Object-based multi-state Local Area Network,Engineering,2026-08-10,2027-12-03,active,0.93
+PRJ-2026-000243,Optimized zero-defect definition,Management,2027-03-26,2028-07-21,completed,0.95
+PRJ-2026-000244,Up-sized bifurcated knowledge user,Data & AI,2026-11-19,2027-05-20,active,0.85
+PRJ-2026-000245,Balanced dedicated project,Quality Assurance,2027-02-05,2028-06-09,active,0.98
+PRJ-2026-000246,Compatible holistic archive,Design,2026-10-14,2027-09-29,planned,0.85
+PRJ-2026-000247,Proactive dedicated moratorium,IT Operations,2026-10-30,2027-04-08,active,0.53
+PRJ-2026-000248,Function-based local alliance,Design,2026-10-31,2027-01-24,active,0.86
+PRJ-2026-000249,Visionary needs-based flexibility,IT Operations,2027-03-31,2028-02-04,active,0.72
+PRJ-2026-000250,Monitored even-keeled policy,IT Operations,2026-12-14,2027-09-24,active,0.67
+PRJ-2026-000251,Multi-layered needs-based moderator,Design,2026-08-28,2027-12-06,planned,0.5
+PRJ-2026-000252,Expanded tangible extranet,Management,2027-04-13,2027-06-28,active,0.59
+PRJ-2026-000253,Persistent zero-defect open system,Design,2027-04-24,2028-06-25,active,0.47
+PRJ-2026-000254,Synergistic static matrix,Design,2027-01-21,2028-03-20,planned,0.63
+PRJ-2026-000255,Devolved systemic challenge,Quality Assurance,2026-12-11,2027-05-25,active,0.62
+PRJ-2026-000256,Open-source web-enabled contingency,Design,2026-10-12,2027-01-08,active,0.62
+PRJ-2026-000257,Horizontal secondary data-warehouse,Human Resources,2026-11-25,2027-07-15,planned,0.82
+PRJ-2026-000258,Down-sized object-oriented projection,Design,2026-11-21,2027-03-29,on_hold,0.56
+PRJ-2026-000259,Enhanced systemic utilization,Quality Assurance,2026-10-19,2027-03-22,completed,0.52
+PRJ-2026-000260,Robust fault-tolerant project,Design,2027-03-21,2027-10-26,active,0.68
+PRJ-2026-000261,Digitized bandwidth-monitored throughput,Data & AI,2026-06-12,2027-11-11,active,0.94
+PRJ-2026-000262,Virtual even-keeled open system,Human Resources,2026-11-23,2027-04-29,active,0.64
+PRJ-2026-000263,Phased holistic capability,IT Operations,2026-10-01,2028-01-02,planned,0.64
+PRJ-2026-000264,Customizable reciprocal superstructure,Data & AI,2026-06-23,2026-08-23,active,0.6
+PRJ-2026-000265,Expanded cohesive info-mediaries,Management,2027-01-15,2028-01-29,planned,0.43
+PRJ-2026-000266,Customer-focused bandwidth-monitored methodology,Engineering,2026-07-21,2027-05-23,completed,0.78
+PRJ-2026-000267,Secured client-server solution,Data & AI,2026-11-06,2027-03-10,planned,0.42
+PRJ-2026-000268,Programmable exuding project,Human Resources,2026-08-19,2027-09-03,active,0.79
+PRJ-2026-000269,Public-key attitude-oriented access,Data & AI,2026-07-19,2026-12-14,completed,0.61
+PRJ-2026-000270,Stand-alone optimal architecture,Design,2027-01-14,2027-04-15,active,0.84
+PRJ-2026-000271,Multi-channeled demand-driven orchestration,Data & AI,2026-12-02,2027-12-21,planned,0.44
+PRJ-2026-000272,Integrated disintermediate data-warehouse,Management,2026-09-07,2027-05-26,completed,0.66
+PRJ-2026-000273,Centralized demand-driven contingency,Design,2026-09-12,2027-02-12,planned,0.71
+PRJ-2026-000274,Managed well-modulated encryption,Human Resources,2027-02-10,2028-03-04,on_hold,0.42
+PRJ-2026-000275,Configurable tertiary support,Human Resources,2026-10-08,2028-03-30,active,0.77
+PRJ-2026-000276,Re-contextualized scalable workforce,Quality Assurance,2026-11-23,2027-05-13,planned,0.65
+PRJ-2026-000277,Customer-focused user-facing archive,Engineering,2026-08-26,2027-05-28,active,0.93
+PRJ-2026-000278,Implemented explicit array,Human Resources,2026-07-10,2027-01-11,active,0.9
+PRJ-2026-000279,Re-engineered stable customer loyalty,Quality Assurance,2026-10-08,2027-08-20,active,0.92
+PRJ-2026-000280,Compatible object-oriented artificial intelligence,Quality Assurance,2026-07-30,2027-07-03,planned,0.84
+PRJ-2026-000281,Networked bi-directional firmware,Human Resources,2027-01-05,2027-05-10,active,0.66
+PRJ-2026-000282,Cross-group fault-tolerant orchestration,Engineering,2027-02-24,2027-08-04,active,0.94
+PRJ-2026-000283,Balanced content-based alliance,Quality Assurance,2026-12-12,2027-07-13,completed,0.47
+PRJ-2026-000284,Upgradable eco-centric structure,IT Operations,2026-10-31,2027-03-21,planned,0.79
+PRJ-2026-000285,Persevering analyzing analyzer,Quality Assurance,2026-07-08,2026-10-04,on_hold,0.99
+PRJ-2026-000286,Polarized clear-thinking system engine,Quality Assurance,2027-02-04,2027-05-18,active,0.58
+PRJ-2026-000287,Vision-oriented encompassing standardization,Design,2026-06-03,2027-06-04,completed,0.65
+PRJ-2026-000288,Grass-roots optimizing leverage,Management,2026-10-14,2027-08-20,planned,0.81
+PRJ-2026-000289,Cloned discrete standardization,Human Resources,2027-01-25,2027-06-28,completed,0.51
+PRJ-2026-000290,Ameliorated local Local Area Network,IT Operations,2027-03-07,2027-06-13,completed,0.98
+PRJ-2026-000291,Upgradable leadingedge implementation,Design,2026-10-18,2027-02-26,on_hold,0.78
+PRJ-2026-000292,Decentralized encompassing toolset,Management,2026-10-11,2026-12-16,active,0.72
+PRJ-2026-000293,Fundamental impactful adapter,IT Operations,2026-12-29,2027-06-28,active,0.85
+PRJ-2026-000294,Digitized discrete firmware,Quality Assurance,2027-03-11,2027-12-15,planned,0.5
+PRJ-2026-000295,Persevering exuding artificial intelligence,Engineering,2026-09-03,2027-10-31,active,0.58
+PRJ-2026-000296,Face-to-face content-based hardware,Data & AI,2026-09-26,2028-03-08,planned,0.78
+PRJ-2026-000297,Fully-configurable context-sensitive artificial intelligence,IT Operations,2026-10-19,2028-02-02,completed,0.98
+PRJ-2026-000298,Reduced 5thgeneration hardware,IT Operations,2026-08-05,2026-12-09,active,0.82
+PRJ-2026-000299,Implemented human-resource instruction set,Data & AI,2026-07-31,2027-10-05,active,0.74
+PRJ-2026-000300,Total directional website,Design,2026-05-31,2026-08-04,completed,0.81
+PRJ-2026-000301,Front-line neutral success,Quality Assurance,2027-04-09,2028-07-29,on_hold,0.77
+PRJ-2026-000302,Assimilated 6thgeneration methodology,Design,2026-07-29,2027-06-06,completed,0.96
+PRJ-2026-000303,Phased disintermediate encoding,IT Operations,2027-02-19,2027-07-28,active,0.56
+PRJ-2026-000304,Reverse-engineered explicit time-frame,Design,2027-04-19,2028-09-26,planned,0.62
+PRJ-2026-000305,Secured upward-trending superstructure,Design,2027-02-23,2028-02-03,active,0.59
+PRJ-2026-000306,Front-line content-based contingency,Quality Assurance,2027-05-10,2028-08-08,planned,0.78
+PRJ-2026-000307,Ergonomic zero administration database,Design,2026-10-02,2027-12-08,completed,0.6
+PRJ-2026-000308,Secured client-driven challenge,Design,2026-06-20,2027-05-30,planned,0.9
+PRJ-2026-000309,Down-sized value-added methodology,Data & AI,2027-05-02,2028-08-05,completed,0.55
+PRJ-2026-000310,User-friendly user-facing matrix,Data & AI,2026-12-31,2028-05-03,active,0.83
+PRJ-2026-000311,Down-sized 5thgeneration paradigm,Management,2027-02-05,2028-02-12,completed,0.71
+PRJ-2026-000312,Open-source client-driven attitude,Human Resources,2027-03-25,2028-03-04,active,0.82
+PRJ-2026-000313,Profound hybrid ability,Management,2026-12-01,2028-02-02,active,0.44
+PRJ-2026-000314,Mandatory disintermediate customer loyalty,Management,2027-04-03,2027-06-23,planned,0.55
+PRJ-2026-000315,Proactive eco-centric approach,Management,2027-03-24,2028-08-15,active,0.93
+PRJ-2026-000316,Public-key solution-oriented support,Data & AI,2026-12-10,2027-08-16,completed,0.89
+PRJ-2026-000317,Sharable logistical capacity,Management,2026-09-07,2027-06-19,completed,0.48
+PRJ-2026-000318,Ameliorated background monitoring,Engineering,2026-09-23,2026-12-31,active,0.74
+PRJ-2026-000319,Proactive upward-trending analyzer,Engineering,2026-10-04,2026-12-10,active,0.82
+PRJ-2026-000320,Horizontal secondary alliance,Quality Assurance,2026-12-11,2027-04-29,completed,0.47
+PRJ-2026-000321,Cross-group content-based array,Design,2026-10-09,2027-07-16,completed,0.81
+PRJ-2026-000322,Reduced encompassing collaboration,Design,2026-07-20,2027-12-06,on_hold,0.56
+PRJ-2026-000323,Open-architected zero administration task-force,Quality Assurance,2027-02-18,2028-06-16,planned,0.93
+PRJ-2026-000324,Re-contextualized analyzing parallelism,Quality Assurance,2026-09-08,2027-04-28,planned,0.91
+PRJ-2026-000325,Secured non-volatile array,IT Operations,2026-08-31,2027-08-30,active,0.51
+PRJ-2026-000326,Compatible zero-defect productivity,Human Resources,2027-02-08,2028-02-18,active,0.68
+PRJ-2026-000327,Mandatory contextually-based approach,IT Operations,2027-04-19,2028-01-17,planned,0.71
+PRJ-2026-000328,Adaptive maximized architecture,Human Resources,2026-08-19,2027-11-12,active,0.5
+PRJ-2026-000329,Organized incremental complexity,Quality Assurance,2027-03-03,2028-07-07,on_hold,0.68
+PRJ-2026-000330,Persevering encompassing alliance,Engineering,2027-04-19,2028-06-16,active,0.57
+PRJ-2026-000331,Open-source foreground conglomeration,Data & AI,2026-06-28,2027-08-01,active,0.59
+PRJ-2026-000332,Digitized optimal parallelism,Human Resources,2026-08-21,2027-02-23,planned,0.79
+PRJ-2026-000333,Future-proofed tertiary emulation,Quality Assurance,2026-12-20,2027-04-15,active,0.53
+PRJ-2026-000334,Organized even-keeled concept,Data & AI,2026-06-11,2027-04-23,planned,0.66
+PRJ-2026-000335,Fully-configurable fault-tolerant matrices,Management,2026-06-12,2027-02-24,planned,0.85
+PRJ-2026-000336,Digitized radical algorithm,Engineering,2027-04-30,2028-08-04,active,0.49
+PRJ-2026-000337,Enhanced high-level database,Quality Assurance,2027-03-14,2027-12-01,active,0.95
+PRJ-2026-000338,Advanced user-facing success,Management,2026-09-12,2027-06-07,active,0.75
+PRJ-2026-000339,Enhanced bi-directional process improvement,IT Operations,2026-07-24,2027-12-25,completed,0.66
+PRJ-2026-000340,Cloned 5thgeneration challenge,Design,2026-08-20,2027-05-10,planned,0.74
+PRJ-2026-000341,Fully-configurable homogeneous protocol,IT Operations,2027-04-23,2028-01-10,planned,0.81
+PRJ-2026-000342,User-friendly zero tolerance circuit,Quality Assurance,2027-02-17,2028-07-11,completed,0.48
+PRJ-2026-000343,Expanded local ability,IT Operations,2026-12-06,2027-09-07,completed,0.67
+PRJ-2026-000344,Business-focused radical toolset,Quality Assurance,2026-12-12,2027-11-19,active,0.48
+PRJ-2026-000345,Secured heuristic workforce,Human Resources,2026-08-10,2026-10-31,on_hold,0.51
+PRJ-2026-000346,Proactive multimedia solution,Human Resources,2026-11-24,2027-11-11,on_hold,0.52
+PRJ-2026-000347,Intuitive background definition,Quality Assurance,2026-05-23,2027-07-17,active,0.7
+PRJ-2026-000348,Vision-oriented encompassing contingency,Management,2027-01-14,2027-07-07,on_hold,0.48
+PRJ-2026-000349,Devolved object-oriented policy,Management,2026-12-20,2027-11-14,active,0.64
+PRJ-2026-000350,Phased mission-critical frame,Management,2027-02-25,2028-02-06,active,0.69
+PRJ-2026-000351,Triple-buffered 3rdgeneration circuit,Human Resources,2026-10-30,2027-09-07,active,0.51
+PRJ-2026-000352,Decentralized composite pricing structure,Human Resources,2026-12-18,2028-04-10,completed,0.6
+PRJ-2026-000353,Balanced asymmetric firmware,IT Operations,2026-11-21,2028-02-24,planned,0.53
+PRJ-2026-000354,User-centric 24/7 superstructure,IT Operations,2026-09-11,2027-01-26,active,0.65
+PRJ-2026-000355,Sharable coherent service-desk,Engineering,2026-10-23,2028-02-24,completed,0.84
+PRJ-2026-000356,Triple-buffered context-sensitive archive,Engineering,2026-08-30,2028-01-07,active,0.66
+PRJ-2026-000357,Fundamental tangible product,Data & AI,2026-12-19,2028-03-30,active,0.93
+PRJ-2026-000358,Pre-emptive asynchronous Internet solution,Human Resources,2027-03-24,2027-10-15,active,0.6
+PRJ-2026-000359,Focused solution-oriented access,Management,2027-01-04,2027-04-21,active,0.7
+PRJ-2026-000360,Re-contextualized system-worthy installation,Data & AI,2026-07-17,2027-11-10,planned,0.6
+PRJ-2026-000361,Switchable didactic open system,Data & AI,2027-02-13,2028-01-26,active,0.71
+PRJ-2026-000362,Distributed tangible definition,Management,2026-11-17,2027-10-23,planned,0.95
+PRJ-2026-000363,Synergistic empowering middleware,IT Operations,2027-01-27,2027-06-08,planned,0.5
+PRJ-2026-000364,Polarized client-server infrastructure,Management,2027-02-13,2028-04-22,active,0.85
+PRJ-2026-000365,Total dynamic circuit,IT Operations,2026-08-01,2026-11-16,planned,0.88
+PRJ-2026-000366,Down-sized solution-oriented task-force,IT Operations,2026-10-21,2027-06-08,completed,0.71
+PRJ-2026-000367,Open-architected upward-trending adapter,Data & AI,2026-11-24,2027-09-23,completed,0.57
+PRJ-2026-000368,Persevering human-resource structure,IT Operations,2026-05-25,2027-11-09,active,0.45
+PRJ-2026-000369,Compatible 3rdgeneration model,Management,2027-01-01,2027-07-14,active,0.86
+PRJ-2026-000370,Total intermediate extranet,Engineering,2027-01-24,2027-06-17,planned,0.47
+PRJ-2026-000371,Ergonomic leadingedge functionalities,Quality Assurance,2027-03-03,2027-09-07,active,0.77
+PRJ-2026-000372,Synergistic client-driven conglomeration,Design,2027-01-26,2028-01-27,active,0.66
+PRJ-2026-000373,Assimilated bi-directional protocol,Quality Assurance,2027-04-19,2028-08-15,active,0.83
+PRJ-2026-000374,Adaptive homogeneous toolset,IT Operations,2027-02-18,2027-07-25,active,0.71
+PRJ-2026-000375,Visionary web-enabled secured line,IT Operations,2027-05-10,2028-03-04,planned,0.58
+PRJ-2026-000376,Programmable homogeneous service-desk,Data & AI,2026-09-08,2027-07-31,planned,0.79
+PRJ-2026-000377,Proactive asymmetric help-desk,IT Operations,2026-12-10,2028-01-24,planned,0.93
+PRJ-2026-000378,Progressive global benchmark,Design,2026-11-05,2027-12-09,active,0.93
+PRJ-2026-000379,Networked motivating concept,IT Operations,2027-01-24,2028-05-30,planned,0.64
+PRJ-2026-000380,Adaptive neutral initiative,Design,2026-12-18,2028-04-16,planned,0.93
+PRJ-2026-000381,Distributed bandwidth-monitored superstructure,Engineering,2026-09-12,2027-10-08,active,0.62
+PRJ-2026-000382,Seamless reciprocal matrices,Engineering,2027-05-04,2028-08-17,active,0.7
+PRJ-2026-000383,Automated systemic standardization,Human Resources,2027-02-16,2027-12-17,active,0.89
+PRJ-2026-000384,Adaptive secondary website,Management,2027-04-28,2027-09-27,active,0.79
+PRJ-2026-000385,Ergonomic multi-state system engine,Human Resources,2027-01-14,2027-06-12,active,0.69
+PRJ-2026-000386,Seamless actuating extranet,Engineering,2026-07-14,2027-03-06,completed,0.42
+PRJ-2026-000387,Total radical implementation,Quality Assurance,2026-05-21,2026-09-29,completed,0.96
+PRJ-2026-000388,Future-proofed optimizing Internet solution,Quality Assurance,2026-08-26,2028-02-02,active,0.44
+PRJ-2026-000389,Devolved stable matrices,Human Resources,2026-12-03,2027-05-20,completed,0.57
+PRJ-2026-000390,Virtual incremental help-desk,Human Resources,2027-04-02,2027-07-08,completed,0.84
+PRJ-2026-000391,Optimized attitude-oriented attitude,Quality Assurance,2026-09-29,2027-04-23,completed,0.53
+PRJ-2026-000392,Right-sized client-server Graphical User Interface,Design,2026-10-09,2027-02-04,planned,0.43
+PRJ-2026-000393,User-centric regional paradigm,Quality Assurance,2027-03-18,2028-01-05,active,0.91
+PRJ-2026-000394,Polarized web-enabled knowledge user,Data & AI,2026-07-02,2026-09-01,planned,0.42
+PRJ-2026-000395,Cloned dedicated implementation,IT Operations,2027-04-07,2028-02-06,active,0.72
+PRJ-2026-000396,Multi-channeled uniform extranet,Engineering,2027-01-12,2027-06-21,active,0.6
+PRJ-2026-000397,Operative uniform utilization,Data & AI,2026-09-14,2027-05-31,active,0.62
+PRJ-2026-000398,Front-line intermediate parallelism,Design,2026-12-13,2027-04-09,completed,0.62
+PRJ-2026-000399,Digitized upward-trending matrices,Data & AI,2027-05-04,2027-09-05,completed,0.59
+PRJ-2026-000400,Customer-focused system-worthy policy,Human Resources,2026-09-23,2027-01-14,planned,0.81
+PRJ-2026-000401,Front-line radical matrix,Management,2027-05-08,2027-08-05,on_hold,0.57
+PRJ-2026-000402,Organized asynchronous process improvement,Human Resources,2026-07-08,2026-11-05,completed,0.74
+PRJ-2026-000403,User-friendly eco-centric matrix,Quality Assurance,2026-09-12,2027-04-24,on_hold,0.77
+PRJ-2026-000404,Balanced system-worthy Internet solution,Design,2026-05-31,2027-04-02,active,0.95
+PRJ-2026-000405,Organic radical moratorium,Data & AI,2027-01-25,2028-03-05,active,0.99
+PRJ-2026-000406,Quality-focused human-resource knowledge user,Human Resources,2027-02-03,2027-11-12,active,0.9
+PRJ-2026-000407,Fully-configurable fresh-thinking access,Human Resources,2026-10-15,2027-06-30,completed,0.77
+PRJ-2026-000408,Enterprise-wide needs-based throughput,Data & AI,2026-07-17,2027-04-15,on_hold,0.97
+PRJ-2026-000409,Switchable bottom-line approach,Quality Assurance,2027-04-09,2028-03-19,active,0.68
+PRJ-2026-000410,Polarized content-based knowledge user,Human Resources,2026-09-16,2027-05-01,active,0.61
+PRJ-2026-000411,Managed directional throughput,IT Operations,2026-07-07,2027-12-25,active,0.46
+PRJ-2026-000412,Phased homogeneous definition,Quality Assurance,2026-09-27,2026-12-19,on_hold,0.47
+PRJ-2026-000413,Fundamental radical info-mediaries,Quality Assurance,2026-09-05,2027-02-20,on_hold,0.66
+PRJ-2026-000414,Programmable client-driven focus group,Engineering,2026-11-01,2027-07-09,active,0.94
+PRJ-2026-000415,Adaptive zero-defect projection,Human Resources,2026-12-15,2027-02-13,completed,0.61
+PRJ-2026-000416,Realigned optimizing superstructure,Engineering,2026-10-02,2027-02-28,active,0.63
+PRJ-2026-000417,Progressive well-modulated monitoring,Data & AI,2026-09-16,2027-01-31,completed,0.51
+PRJ-2026-000418,Sharable asymmetric emulation,Human Resources,2027-01-07,2028-02-27,planned,0.74
+PRJ-2026-000419,Seamless solution-oriented projection,Management,2026-12-31,2028-06-12,on_hold,0.76
+PRJ-2026-000420,Integrated 4thgeneration attitude,Management,2027-03-04,2028-05-30,active,0.46
+PRJ-2026-000421,Up-sized optimizing secured line,Quality Assurance,2026-09-21,2027-07-16,active,0.73
+PRJ-2026-000422,Streamlined neutral help-desk,Quality Assurance,2027-05-10,2028-05-28,active,0.7
+PRJ-2026-000423,Multi-channeled heuristic protocol,Engineering,2026-09-20,2026-12-07,completed,0.4
+PRJ-2026-000424,Robust radical info-mediaries,Design,2026-06-10,2027-09-10,active,0.59
+PRJ-2026-000425,Optimized stable secured line,IT Operations,2027-01-17,2027-10-06,planned,0.87
+PRJ-2026-000426,Expanded impactful encryption,Quality Assurance,2027-02-23,2027-07-11,active,0.63
+PRJ-2026-000427,Profound hybrid secured line,Management,2026-05-28,2026-08-20,active,0.63
+PRJ-2026-000428,Reactive motivating strategy,Management,2027-01-03,2028-06-14,completed,0.94
+PRJ-2026-000429,Optimized asynchronous conglomeration,Engineering,2026-07-23,2027-08-21,completed,0.62
+PRJ-2026-000430,Cloned attitude-oriented challenge,Management,2026-05-19,2027-03-01,active,0.68
+PRJ-2026-000431,Optional clear-thinking strategy,Management,2026-12-11,2027-03-20,active,0.92
+PRJ-2026-000432,Profit-focused methodical customer loyalty,Quality Assurance,2027-03-12,2027-10-26,completed,0.89
+PRJ-2026-000433,Synergized attitude-oriented extranet,Data & AI,2026-09-28,2027-01-06,planned,0.59
+PRJ-2026-000434,Grass-roots didactic focus group,Management,2026-11-18,2027-10-19,active,0.73
+PRJ-2026-000435,Right-sized dedicated support,Management,2026-07-31,2027-01-22,completed,0.55
+PRJ-2026-000436,Ameliorated non-volatile project,Data & AI,2027-01-09,2027-10-15,completed,0.48
+PRJ-2026-000437,Virtual zero administration functionalities,Management,2026-08-30,2027-10-02,completed,0.56
+PRJ-2026-000438,Enhanced stable customer loyalty,Engineering,2027-03-14,2028-04-02,on_hold,0.86
+PRJ-2026-000439,Open-architected coherent methodology,Quality Assurance,2027-05-10,2028-10-31,active,0.41
+PRJ-2026-000440,Vision-oriented system-worthy productivity,Data & AI,2027-03-12,2027-10-20,planned,0.77
+PRJ-2026-000441,Managed discrete Internet solution,Engineering,2026-08-16,2027-01-08,on_hold,0.42
+PRJ-2026-000442,Exclusive solution-oriented utilization,Quality Assurance,2027-03-07,2028-07-10,active,0.67
+PRJ-2026-000443,Realigned clear-thinking leverage,Design,2027-01-02,2028-05-13,completed,0.42
+PRJ-2026-000444,Fully-configurable client-server moderator,Quality Assurance,2026-06-05,2026-12-04,active,0.91
+PRJ-2026-000445,Ergonomic asynchronous policy,IT Operations,2026-07-10,2027-01-18,planned,0.5
+PRJ-2026-000446,Phased uniform customer loyalty,Data & AI,2026-09-24,2026-12-23,on_hold,0.97
+PRJ-2026-000447,User-centric global neural-net,Quality Assurance,2026-11-11,2027-09-29,planned,0.91
+PRJ-2026-000448,Persevering next generation application,Quality Assurance,2027-01-12,2027-05-11,active,0.51
+PRJ-2026-000449,Profound cohesive time-frame,Engineering,2026-10-06,2027-03-12,planned,0.52
+PRJ-2026-000450,Customer-focused eco-centric protocol,Data & AI,2026-09-30,2027-07-09,active,0.86
+PRJ-2026-000451,Open-source 24hour focus group,IT Operations,2026-09-11,2027-08-07,completed,0.99
+PRJ-2026-000452,Assimilated uniform portal,Quality Assurance,2026-08-26,2027-10-26,planned,0.83
+PRJ-2026-000453,Automated attitude-oriented success,Data & AI,2026-09-16,2028-02-25,completed,0.47
+PRJ-2026-000454,Vision-oriented bandwidth-monitored challenge,Engineering,2026-06-22,2027-11-27,planned,0.72
+PRJ-2026-000455,Advanced stable strategy,Human Resources,2027-02-04,2027-09-22,completed,0.41
+PRJ-2026-000456,Devolved object-oriented adapter,Design,2026-05-28,2027-02-27,planned,0.42
+PRJ-2026-000457,Digitized intangible matrix,IT Operations,2026-10-26,2027-11-23,active,0.85
+PRJ-2026-000458,Seamless transitional methodology,Management,2026-12-23,2028-02-22,active,0.51
+PRJ-2026-000459,Centralized full-range open architecture,Management,2026-12-21,2027-11-08,completed,0.61
+PRJ-2026-000460,Public-key optimizing moderator,Human Resources,2026-07-30,2027-10-22,completed,0.93
+PRJ-2026-000461,Decentralized coherent knowledgebase,Human Resources,2026-08-10,2027-12-06,active,0.74
+PRJ-2026-000462,Front-line bandwidth-monitored middleware,Human Resources,2026-10-20,2027-08-13,active,0.62
+PRJ-2026-000463,Synergistic tangible process improvement,IT Operations,2026-12-04,2027-12-24,active,0.48
+PRJ-2026-000464,Ameliorated 6thgeneration open architecture,Human Resources,2026-07-20,2027-11-11,completed,0.78
+PRJ-2026-000465,Synchronized stable protocol,Design,2026-08-26,2026-12-01,active,0.8
+PRJ-2026-000466,Enterprise-wide actuating software,Human Resources,2026-12-26,2027-06-13,planned,0.6
+PRJ-2026-000467,Digitized content-based system engine,IT Operations,2026-11-16,2028-04-16,completed,0.48
+PRJ-2026-000468,Synergized global encoding,Engineering,2026-06-21,2027-04-04,active,0.98
+PRJ-2026-000469,Sharable dynamic application,IT Operations,2026-06-30,2027-11-15,planned,0.56
+PRJ-2026-000470,Team-oriented methodical analyzer,Engineering,2027-04-23,2028-05-10,planned,0.58
+PRJ-2026-000471,Optional local data-warehouse,Human Resources,2026-09-21,2027-08-25,active,0.86
+PRJ-2026-000472,Virtual tertiary concept,Management,2027-04-01,2027-12-24,active,0.62
+PRJ-2026-000473,Down-sized zero-defect solution,IT Operations,2027-01-19,2027-07-04,completed,0.63
+PRJ-2026-000474,Centralized methodical toolset,Human Resources,2027-03-09,2028-02-26,active,0.88
+PRJ-2026-000475,Enhanced multimedia paradigm,Human Resources,2027-03-02,2027-11-04,planned,0.57
+PRJ-2026-000476,Future-proofed explicit customer loyalty,Quality Assurance,2026-12-06,2027-08-09,active,0.78
+PRJ-2026-000477,Focused empowering conglomeration,Engineering,2026-10-25,2027-03-18,completed,0.81
+PRJ-2026-000478,Extended methodical synergy,Data & AI,2026-09-29,2027-11-11,active,0.76
+PRJ-2026-000479,Streamlined user-facing moratorium,Human Resources,2026-06-29,2026-08-31,planned,0.47
+PRJ-2026-000480,Managed tangible Local Area Network,Design,2027-02-04,2028-01-23,on_hold,0.55
+PRJ-2026-000481,Enterprise-wide actuating middleware,IT Operations,2027-01-06,2028-06-22,active,0.5
+PRJ-2026-000482,Balanced fault-tolerant customer loyalty,Data & AI,2027-01-01,2028-05-28,planned,0.82
+PRJ-2026-000483,Monitored actuating archive,Human Resources,2026-08-09,2027-08-06,completed,0.91
+PRJ-2026-000484,Managed disintermediate knowledge user,Management,2026-08-28,2027-02-12,active,0.89
+PRJ-2026-000485,Ergonomic contextually-based process improvement,Human Resources,2026-12-23,2027-05-12,active,0.57
+PRJ-2026-000486,Adaptive dynamic functionalities,Management,2026-06-29,2027-02-12,planned,1.0
+PRJ-2026-000487,Extended composite artificial intelligence,Design,2027-04-14,2028-03-12,active,0.45
+PRJ-2026-000488,Pre-emptive coherent software,Engineering,2027-04-16,2027-07-21,on_hold,0.94
+PRJ-2026-000489,Seamless foreground standardization,Engineering,2026-05-15,2027-02-10,active,0.46
+PRJ-2026-000490,Multi-layered disintermediate challenge,Engineering,2026-06-28,2026-09-08,active,0.4
+PRJ-2026-000491,Horizontal maximized system engine,Engineering,2027-02-23,2027-06-25,completed,0.42
+PRJ-2026-000492,Universal uniform model,Management,2026-05-30,2027-02-21,on_hold,0.65
+PRJ-2026-000493,Operative analyzing database,Data & AI,2027-04-29,2028-05-24,active,0.74
+PRJ-2026-000494,Innovative non-volatile service-desk,Engineering,2027-03-21,2028-02-07,on_hold,0.83
+PRJ-2026-000495,Down-sized zero tolerance system engine,IT Operations,2026-12-03,2027-03-19,completed,0.85
+PRJ-2026-000496,Mandatory full-range customer loyalty,Human Resources,2027-01-16,2027-05-25,active,0.76
+PRJ-2026-000497,Re-contextualized executive portal,Management,2026-07-03,2027-12-09,on_hold,0.67
+PRJ-2026-000498,Face-to-face actuating groupware,Human Resources,2026-05-19,2027-03-17,completed,0.67
+PRJ-2026-000499,Business-focused value-added firmware,Design,2026-06-01,2027-08-18,planned,0.69
+PRJ-2026-000500,Multi-tiered zero administration process improvement,Human Resources,2026-10-11,2027-02-13,active,0.69

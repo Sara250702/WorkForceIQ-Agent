@@ -1,0 +1,17 @@
+EVIDENCE SCOPE
+The validator output below is a historical source Run B validation log copied into this sanitized package. It is not evidence that the full anomaly validator completed successfully against the sanitized public copy.
+
+PUBLIC-COPY BOUNDED CHECK (artifact comparison; not a full detector recomputation)
+- Baseline findings preserved exactly: 3,931.
+- Stored detections: 3,935.
+- New findings matching ground truth: 4 of 4.
+- Independent full anomaly detector recomputation: INCOMPLETE. The public-copy validate_anomalies run exceeded five minutes and was interrupted; no full-validation pass is asserted.
+- Workforce data validation on the public copy: 113 PASS lines, 0 FAIL lines (see validation.log).
+
+HISTORICAL SOURCE RUN OUTPUT FOLLOWSPASS - Exactly four approved ground-truth records
+PASS - Ground truth matches the injected source and processed values
+PASS - Detector output matches independent recomputation
+PASS - Exactly four new canonical findings; no unexpected detection deltas
+PASS - All pre-injection finding fingerprints remain unchanged
+ANOMALY_VALIDATION_METRICS={"baseline_findings": 3931, "final_findings": 3935, "ground_truth_records": 4, "new_canonical_findings": 4}
+

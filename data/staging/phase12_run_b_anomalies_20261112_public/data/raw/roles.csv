@@ -1,0 +1,16 @@
+role_id,role_name,department,description
+ROLE-000001,Software Developer,Engineering,Software Developer in Engineering
+ROLE-000002,Senior Software Developer,Engineering,Senior Software Developer in Engineering
+ROLE-000003,Data Scientist,Data & AI,Data Scientist in Data & AI
+ROLE-000004,Machine Learning Engineer,Data & AI,Machine Learning Engineer in Data & AI
+ROLE-000005,Data Analyst,Data & AI,Data Analyst in Data & AI
+ROLE-000006,AI Engineer,Data & AI,AI Engineer in Data & AI
+ROLE-000007,Project Manager,Management,Project Manager in Management
+ROLE-000008,Business Analyst,Management,Business Analyst in Management
+ROLE-000009,HR Manager,Human Resources,HR Manager in Human Resources
+ROLE-000010,Recruiter,Human Resources,Recruiter in Human Resources
+ROLE-000011,DevOps Engineer,IT Operations,DevOps Engineer in IT Operations
+ROLE-000012,Cloud Engineer,IT Operations,Cloud Engineer in IT Operations
+ROLE-000013,Cybersecurity Analyst,IT Operations,Cybersecurity Analyst in IT Operations
+ROLE-000014,UI/UX Designer,Design,UI/UX Designer in Design
+ROLE-000015,QA Engineer,Quality Assurance,QA Engineer in Quality Assurance
