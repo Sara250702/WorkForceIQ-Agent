@@ -1,5 +1,11 @@
 # WorkForceIQ-Agent
 
+## Live Demo
+
+[**Open Live Application**](http://52.62.176.8)
+
+Explore the workforce dashboard, AI Assistant, skill-gap analysis, internal talent discovery, and Project Intelligence.
+
 ## 1. About the Project
 
 WorkForceIQ-Agent helps managers understand workforce skills, project demand, and staffing gaps. It brings workforce data and planning tools together in one web app.
