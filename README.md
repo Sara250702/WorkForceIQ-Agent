@@ -25,7 +25,7 @@ Before you start, install:
 On GitHub, click **Code** and copy the HTTPS URL. Paste it in place of the text below, then choose a folder name:
 
 ```powershell
-$repoUrl = "PASTE_THE_HTTPS_URL_HERE"
+$repoUrl = "https://github.com/Sara250702/WorkForceIQ-Agent"
 $repoFolder = "WorkForceIQ-Agent"
 git clone $repoUrl $repoFolder
 Set-Location $repoFolder
