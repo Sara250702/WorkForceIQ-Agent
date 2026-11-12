@@ -1,10 +1,12 @@
 # WorkForceIQ-Agent
 
-## Live Demo
+## Deployment
 
-[**Open Live Application**](http://52.62.176.8)
+**Successfully deployed on AWS EC2 (Amazon Web Services).**
 
-Explore the workforce dashboard, AI Assistant, skill-gap analysis, internal talent discovery, and Project Intelligence.
+### Live Demo
+
+[**Access WorkForceIQ-Agent**](http://52.62.176.8)
 
 ## 1. About the Project
 
