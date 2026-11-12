@@ -10,7 +10,7 @@
 
 ## 1. About the Project
 
-WorkForceIQ-Agent helps managers understand workforce skills, project demand, and staffing gaps. It brings workforce data and planning tools together in one web app.
+WorkForceIQ-Agent is an AI-powered workforce planning and intelligence platform that helps managers understand workforce skills, project demand, and staffing gaps. The application has been successfully deployed on AWS EC2 (Amazon Web Services).
 
 ## 2. Main Features
 
