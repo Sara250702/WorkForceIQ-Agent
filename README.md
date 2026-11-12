@@ -1,13 +1,5 @@
 # WorkForceIQ-Agent
 
-## Deployment
-
-**Successfully deployed on AWS EC2 (Amazon Web Services).**
-
-### Live Demo
-
-[**Access WorkForceIQ-Agent**](http://52.62.176.8)
-
 ## 1. About the Project
 
 WorkForceIQ-Agent is an AI-powered workforce planning and intelligence platform that helps managers understand workforce skills, project demand, and staffing gaps. The application has been successfully deployed on AWS EC2 (Amazon Web Services).
@@ -146,3 +138,11 @@ The public package also contains saved data-validation and anomaly-validation re
 - Project requirement documents are sent to Groq for requirement extraction. Employee matching and capacity calculations run locally in Python. The AI Assistant may send a small, bounded set of tool results to Groq so it can explain verified results.
 - The application is read-only for workforce planning. Recommendations and strategy comparisons do not create allocations or change workforce records.
 - `.env` is local configuration and is not supplied by the repository. Set the data root and Groq values on each computer where you run the app.
+
+## Deployment
+
+**Successfully deployed on AWS EC2 (Amazon Web Services).**
+
+### Live Demo
+
+[**Access WorkForceIQ-Agent**](http://52.62.176.8)
